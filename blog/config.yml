@@ -46,11 +46,11 @@ params:
     tocopen: false
 
     assets:
-        favicon: "TechLife23.png"
-        favicon16x16: "TechLife23.png"
-        favicon32x32: "TechLife23.png"
-        safari_pinned_tab: "TechLife23.png"
-        apple_touch_icon: "TechLife23.png"
+        favicon: "/TechLife23.png"
+        favicon16x16: "/TechLife23.png"
+        favicon32x32: "/TechLife23.png"
+        safari_pinned_tab: "/TechLife23.png"
+        apple_touch_icon: "/TechLife23.png"
     #     disableHLJS: false # to disable highlight.js
     #     disableFingerprinting: false
 
