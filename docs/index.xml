@@ -56,7 +56,7 @@ As someone that values having some downtime around lunch to close my eyes and na
       
       <guid>/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</guid>
       <description>Installing Postman with Canonical&amp;rsquo;s Snap does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
-First, download the latest release:
+Installation First, download the latest release:
 wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz Extract the underlying archive to /opt:
 sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the extracted Postman binary to /usr/bin/Postman so that it gets added to your $PATH and you can easily run it by typing the command postman:</description>
     </item>
