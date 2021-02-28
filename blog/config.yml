@@ -1,0 +1,142 @@
+# baseURL: https://charles-m-knox.github.io
+languageCode: en-us
+title: Charles M. Knox
+theme: PaperMod
+# theme: Axiom
+# theme: beautifulhugo
+
+enableemoji: true
+cleandestinationdir: true
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Charles M. Knox
+    description: "Charles M. Knox"
+    author: Charles M. Knox
+    # author: ["Me", "You"] # multiple authors
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    disableSpecial1stPost: false
+    comments: true
+    hidemeta: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        favicon: "TechLife23.png"
+        favicon16x16: "TechLife23.png"
+        favicon32x32: "TechLife23.png"
+        safari_pinned_tab: "TechLife23.png"
+        apple_touch_icon: "TechLife23.png"
+    #     disableHLJS: false # to disable highlight.js
+    #     disableFingerprinting: false
+
+    label:
+        text: "Charles M. Knox"
+        # icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Welcome
+        subtitle:
+        imageUrl: "TechLife23.png"
+        imageWidth: 220
+        imageHeight: 220
+        imageTitle: Charles M. Knox - Avatar
+        buttons:
+            - name: Resume
+              url: https://resume.charlesmknox.com
+            - name: Blog
+              url: categories
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: |
+          My name is Charles Knox. I am a professional software developer,
+          and have nearly a decade of industry software development and
+          information technology experience.
+
+          I occasionally enjoy writing about techie-focused topics, as well as
+          things I learn as I pursue of a life of healthy living.
+
+          Occasionally, I'll try and post some privacy-respecting ads or
+          affiliate links for products or groups that I care about. I will never
+          plug a company or corporate entity on this site that isn't worthy.
+
+    socialIcons:
+        # - name: twitter
+        #   url: "https://twitter.com/"
+        # - name: stackoverflow
+        #   url: "https://stackoverflow.com"
+        - name: github
+          url: "https://github.com/charles-m-knox"
+        - name: gitlab
+          url: "https://gitlab.com/charles-m-knox"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/charlesmknox"
+        - name: email
+          url: "mailto:8a60e4b7-3cc7-4459-a9e0-3e4e68d1d4db@aleeas.com"
+        - name: reddit
+          url: "https://reddit.com/u/charles-m-knox"
+        - name: rss
+          url: "index.xml"
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: false # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
