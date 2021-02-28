@@ -105,7 +105,7 @@ Verify by running:
 sudo docker-compose version
 ```
 
-{{< contextcue-computers-ad >}}
+{{< cc-ad >}}
 
 ## `apt update` broken - fix
 
@@ -163,4 +163,4 @@ sudo apt update
 
 All set! You should now be able to run Docker containers, as well as orchestrate services with Docker compose files.
 
-{{< contextcue-computers-ad >}}
+{{< cc-ad >}}

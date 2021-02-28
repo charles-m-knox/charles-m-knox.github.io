@@ -494,7 +494,7 @@ Play around with the web page and observe that it provides documentation and ins
 
 * https://openapi.tools/ - a website containing a list of tools related to OpenAPI documents.
 
-{{< contextcue-computers-ad-small >}}
+{{< adex01 >}}
 
 ## Summary
 
@@ -506,4 +506,4 @@ Stay healthy!
 
 Chuck
 
-{{< contextcue-computers-ad-small >}}
+{{< cc-ad >}}
