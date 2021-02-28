@@ -47,3 +47,5 @@ In HTML, you should be using `rel="noopener noreferrer"` along with `target="_bl
 Many linters will catch this if it's not set, so make sure that you're using a linter when you write your code.
 
 {{< adex01 >}}
+
+{{< contextcue-computers-ad >}}
