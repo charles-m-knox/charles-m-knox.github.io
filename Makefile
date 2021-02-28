@@ -7,3 +7,5 @@ build:
 	touch ./docs/.nojekyll
 	echo "charlesmknox.com" > ./docs/CNAME
 
+serve:
+	cd blog && hugo serve -D -v
