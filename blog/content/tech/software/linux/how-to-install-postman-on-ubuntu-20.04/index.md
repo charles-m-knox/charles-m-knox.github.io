@@ -39,7 +39,7 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< contextcue-head >}}
+{{< cc-head >}}
 
 Installing Postman with Canonical's [Snap](https://snapcraft.io/) does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
 

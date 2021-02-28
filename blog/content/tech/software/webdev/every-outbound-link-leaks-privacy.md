@@ -39,7 +39,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< contextcue-head >}}
+{{< cc-head >}}
 
 The title is a bit of an exaggeration, but it's partly true if you don't use the correct properties in your HTML elements.
 

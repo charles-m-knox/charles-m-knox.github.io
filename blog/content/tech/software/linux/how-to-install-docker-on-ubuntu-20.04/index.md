@@ -39,7 +39,7 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< contextcue-head >}}
+{{< cc-head >}}
 
 It's April 24, 2020. Ubuntu 20.04 _just_ came out. Installing Docker via the method I typically use via [get.docker.com](https://get.docker.com) does not seem to work. Additionally, the [Docker website](https://docs.docker.com/engine/install/ubuntu/) doesn't seem to have install instructions for Ubuntu 20.04 yet. [Snap](https://snapcraft.io/) installations are recommended by Canonical, but from past experience with the Docker Snap, I prefer to stick to a native method of installation.
 

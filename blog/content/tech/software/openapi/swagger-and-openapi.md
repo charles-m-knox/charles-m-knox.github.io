@@ -31,12 +31,14 @@ disableHLJS: false # to disable highlightjs
 disableShare: false
 searchHidden: false
 cover:
-    # image: "<image path/url>" # image path/url
-    # alt: "<alt text>" # alt text
-    # caption: "<text>" # display caption under cover
+    image: "images/swagger_ui.png" # image path/url
+    alt: "Swagger Editor UI" # alt text
+    caption: "Swagger Editor UI" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
+
+{{< cc-head >}}
 
 Swagger is a framework to enable arbitrary implementations of the OpenAPI specification.
 
