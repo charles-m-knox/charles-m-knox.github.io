@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Charles M. Knox</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 13:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>/tags/go/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>release notes</title>
+      <link>/tags/release-notes/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/release-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>napping</title>
+      <link>/tags/napping/</link>
+      <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
+      
+      <guid>/tags/napping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apt</title>
+      <link>/tags/apt/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/apt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>/tags/guide/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>/tags/howto/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>/tags/install/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postman</title>
+      <link>/tags/postman/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/postman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>/tags/ubuntu/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
+      
+      <guid>/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Fri, 24 Apr 2020 15:48:30 +0000</pubDate>
+      
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference code</title>
+      <link>/tags/reference-code/</link>
+      <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
+      
+      <guid>/tags/reference-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snippet</title>
+      <link>/tags/snippet/</link>
+      <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
+      
+      <guid>/tags/snippet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>angular</title>
+      <link>/tags/angular/</link>
+      <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
+      
+      <guid>/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frontend</title>
+      <link>/tags/frontend/</link>
+      <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
+      
+      <guid>/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
+      <link>/tags/ui/</link>
+      <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
+      
+      <guid>/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fullstack</title>
+      <link>/tags/fullstack/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/fullstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leak</title>
+      <link>/tags/leak/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/leak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>/tags/react/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>/tags/security/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>/tags/web/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webdev</title>
+      <link>/tags/webdev/</link>
+      <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
+      
+      <guid>/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup</title>
+      <link>/tags/backup/</link>
+      <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
+      
+      <guid>/tags/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
+      
+      <guid>/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cronjob</title>
+      <link>/tags/cronjob/</link>
+      <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
+      
+      <guid>/tags/cronjob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snippets</title>
+      <link>/tags/snippets/</link>
+      <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
+      
+      <guid>/tags/snippets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openapi</title>
+      <link>/tags/openapi/</link>
+      <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
+      
+      <guid>/tags/openapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rest</title>
+      <link>/tags/rest/</link>
+      <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
+      
+      <guid>/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>specification</title>
+      <link>/tags/specification/</link>
+      <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
+      
+      <guid>/tags/specification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swagger</title>
+      <link>/tags/swagger/</link>
+      <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
+      
+      <guid>/tags/swagger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

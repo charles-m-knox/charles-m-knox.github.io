@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Charles M. Knox</title>
+    <link>/tags/go/</link>
+    <description>Recent content in go on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 13:00:00 +0000</lastBuildDate><atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go 1.16 Deprecating ioutil</title>
+      <link>/tech/software/go/go-1.16-deprecating-ioutil/</link>
+      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/tech/software/go/go-1.16-deprecating-ioutil/</guid>
+      <description>Go 1.16 was released - here are the release notes.
+The thing that caught my eye was that io/ioutil has been deprecated - here&amp;rsquo;s what you need to know
+ The io/ioutil package has turned out to be a poorly defined and hard to understand collection of things. All functionality provided by the package has been moved to other packages. The io/ioutil package remains and will continue to work as before, but we encourage new code to use the new definitions in the io and os packages.</description>
+    </item>
+    
+    <item>
+      <title>Regular Expression for URL-Friendly Titles</title>
+      <link>/tech/software/go/regular-expression-for-url-friendly-titles/</link>
+      <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
+      
+      <guid>/tech/software/go/regular-expression-for-url-friendly-titles/</guid>
+      <description>The following Go code snippet will convert a string from this:
+Wow! This message&#39;s getting some _good_ publicity! To this:
+wow-this-messages-getting-some-good The function itself:
+import ( &amp;#34;math&amp;#34; &amp;#34;regexp&amp;#34; &amp;#34;strings&amp;#34; ) // Converts a string to a lowercase, hyphen-separated string of max length 36 func getTitleURLFromString(title string) (output string) { // first, strip out any special characters  re := regexp.MustCompile(`(?m)[^\d^A-Z^a-z^\-^\s]`) substitution := &amp;#34;&amp;#34; output = re.ReplaceAllString(title, substitution) // set to lowercase  output = strings.</description>
+    </item>
+    
+    <item>
+      <title>String Compression in Go</title>
+      <link>/tech/software/go/string-compression/</link>
+      <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
+      
+      <guid>/tech/software/go/string-compression/</guid>
+      <description>Here&amp;rsquo;s how to compress and decompress a string in Golang using the gzip library.
+package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;bytes&amp;#34; &amp;#34;io/ioutil&amp;#34; ) // Credit where credit is due! // https://stackoverflow.com/a/19267224 func compressString(str string) (string, error) { var b bytes.Buffer gz := gzip.NewWriter(&amp;amp;b) if _, err := gz.Write([]byte(str)); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } if err := gz.Close(); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string closure failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } return string(b.</description>
+    </item>
+    
+    <item>
+      <title>Go Regular Expression for Emails</title>
+      <link>/tech/software/go/email-regexp/</link>
+      <pubDate>Fri, 17 Apr 2020 13:31:00 +0000</pubDate>
+      
+      <guid>/tech/software/go/email-regexp/</guid>
+      <description>It was a bit annoying, but the regular expression on this site almost worked out of the box. I had to add in a few line breaks:
+package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var emailRegEx = regexp.MustCompile( `^(?:[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+(?:\.[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+)*|&amp;#34;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&amp;#34;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])`) func verifyEmail(email string) bool { if (emailRegEx.MatchString(email) == true) { return true } return false } func main() { fmt.Println(verifyEmail(&amp;#34;some.user@gmail.com&amp;#34;)) } Go Playground link: https://play.golang.org/p/Gq67bAJeK2r</description>
+    </item>
+    
+    <item>
+      <title>go mod init Not Working</title>
+      <link>/tech/software/go/go-mod-init/</link>
+      <pubDate>Fri, 17 Apr 2020 13:30:00 +0000</pubDate>
+      
+      <guid>/tech/software/go/go-mod-init/</guid>
+      <description>Disclaimer: I&amp;rsquo;m using Go version 1.12.7 for this. It may not work for earlier versions of Go.
+If you&amp;rsquo;ve ever tried to get into Go, one of the first things you&amp;rsquo;ve probably struggled with is simply creating a Go module. Go likes to nag you about $GOPATH, and as someone that is not a native Gopher, I don&amp;rsquo;t want to deal with it.
+Ever run into this error when running go mod init?</description>
+    </item>
+    
+  </channel>
+</rss>
