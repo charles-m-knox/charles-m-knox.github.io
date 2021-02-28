@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Charles M. Knox</title>
+    <link>/categories/portfolio/</link>
+    <description>Recent content in Portfolio on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 15:15:50 +0000</lastBuildDate><atom:link href="/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio: Professional Blog Site</title>
+      <link>/portfolio/fullstack/blog-site/</link>
+      <pubDate>Sun, 28 Feb 2021 15:15:50 +0000</pubDate>
+      
+      <guid>/portfolio/fullstack/blog-site/</guid>
+      <description>Before switching to Hugo, I wrote my own full-stack website, and hosted it on AWS. The site was written in:
+ Frontend: Angular 9 Middleware/web server: Go 1.13 Data: Static markdown files  Screenshots Because the website is not statically generated and requires a live API, and I do not want to continue to provide uptime for the API, I&amp;rsquo;ll be providing a few screen captures of the site in action.</description>
+    </item>
+    
+  </channel>
+</rss>
