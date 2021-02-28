@@ -40,6 +40,8 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+{{< contextcue-head >}}
+
 The title is a bit of an exaggeration, but it's partly true if you don't use the correct properties in your HTML elements.
 
 In HTML, you should be using `rel="noopener noreferrer"` along with `target="_blank"` in your `<a>` tags - if not, you run major security risks. This GitHub Pages site shows you how: https://apal21.github.io/target-blank/
