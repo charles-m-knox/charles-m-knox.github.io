@@ -1,6 +1,7 @@
 
 
 build:
+	-rm -rf ./blog/public ./resources/_gen
 	cd blog && hugo -D -v
 	-rm -rf ./docs
 	cp -ar blog/public ./docs
