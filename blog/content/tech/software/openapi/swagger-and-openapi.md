@@ -494,6 +494,8 @@ Play around with the web page and observe that it provides documentation and ins
 
 * https://openapi.tools/ - a website containing a list of tools related to OpenAPI documents.
 
+{{< contextcue-computers-ad-small >}}
+
 ## Summary
 
 In this article, the process of using the OpenAPI specification and Swagger to create an API with data structures, documentation, client, and server code has been demonstrated.
@@ -503,3 +505,5 @@ In your future software development projects, consider _starting_ with Swagger, 
 Stay healthy!
 
 Chuck
+
+{{< contextcue-computers-ad-small >}}
