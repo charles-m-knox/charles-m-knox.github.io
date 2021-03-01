@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 15:15:50 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 18:11:22 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>/tags/about/</link>
+      <pubDate>Sun, 28 Feb 2021 18:11:22 -0700</pubDate>
+      
+      <guid>/tags/about/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>portfolio</title>
       <link>/tags/portfolio/</link>
@@ -166,6 +175,33 @@
       <pubDate>Fri, 24 Apr 2020 15:48:30 +0000</pubDate>
       
       <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid</title>
+      <link>/tags/covid/</link>
+      <pubDate>Sun, 19 Apr 2020 14:23:32 +0000</pubDate>
+      
+      <guid>/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Sun, 19 Apr 2020 14:23:32 +0000</pubDate>
+      
+      <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>/tags/sleep/</link>
+      <pubDate>Sun, 19 Apr 2020 14:23:32 +0000</pubDate>
+      
+      <guid>/tags/sleep/</guid>
       <description></description>
     </item>
     

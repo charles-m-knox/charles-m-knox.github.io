@@ -16,8 +16,8 @@
       <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
 The following Bash script is a cronjob directory backup script that takes two arguments:
  the folder to backup the output directory  It will also automatically clean up any backups that are more than 3 weeks old.
-See below:
-#!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; .tar.gz) tgtpath=$(dirname &amp;#34;${2}&amp;#34;) output=&amp;#34;${tgtpath}/${outputtargz}__$(date +%m-%d-%y_%H-%M).tar.gz&amp;#34; mkdir -p &amp;#34;${tgtpath}&amp;#34; tar -czvf &amp;#34;${output}&amp;#34; &amp;#34;${1}&amp;#34; # Clean up any old files (3 weeks or older) find &amp;#34;${tgtpath}/*&amp;#34; -mtime +21 -type f -delete echo &amp;#34;Backed up ${1}to ${output}successfully&amp;#34; It can be used like this:</description>
+See below.
+The backup script #!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; .tar.gz) tgtpath=$(dirname &amp;#34;${2}&amp;#34;) output=&amp;#34;${tgtpath}/${outputtargz}__$(date +%m-%d-%y_%H-%M).</description>
     </item>
     
   </channel>

@@ -20,7 +20,7 @@ categories:
 # series: [ "Coding" ] # doesn't seem to work
 author: "Charles M. Knox"
 # author: ["Me", "You"] # multiple authors
-showToc: false
+showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
@@ -37,6 +37,8 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+{{< cc-head >}}
+
 The following Go code snippet will convert a string from this:
 
 ```
@@ -49,7 +51,9 @@ To this:
 wow-this-messages-getting-some-good
 ```
 
-The function itself:
+## The function
+
+The function itself, and its imports:
 
 ```go
 import (
@@ -90,8 +94,7 @@ func getTitleURLFromString(title string) (output string) {
 }
 ```
 
-<details>
-    <summary><i>(Click to Expand)</i> Unit Tests</summary>
+## Unit tests
 
 ```go
 package main
@@ -135,8 +138,11 @@ func TestGetTitleURLFromString(t *testing.T) {
     }
 }
 ```
-</details>
+
+## Final note
 
 [Go Playground Link](https://play.golang.org/p/EcNw8lr0Z6s)
 
 Additionally, [regex101.com](https://regex101.com) is a great resource for interactively testing regular expressions, and it includes a Golang (plus other languages) source code generator to make this process easy.
+
+{{< cc-ad >}}

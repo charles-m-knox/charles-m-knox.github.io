@@ -22,7 +22,7 @@ categories:
 author: "Charles M. Knox"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: true
@@ -212,6 +212,8 @@ The result is now:
       items:
         type: "string"
 ```
+
+{{< adex01 >}}
 
 ## Completing the Article Schema
 
@@ -422,6 +424,8 @@ components:
       items:
         $ref: '#/components/schemas/Article'
 ```
+
+{{< cc-ad >}}
 
 ## Generate Server & Documentation
 

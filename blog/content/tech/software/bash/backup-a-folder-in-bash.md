@@ -21,7 +21,7 @@ categories:
 # series: [ "Coding" ] # doesn't seem to work
 author: "Charles M. Knox"
 # author: ["Me", "You"] # multiple authors
-showToc: false
+showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
@@ -38,6 +38,8 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+{{< cc-head >}}
+
 This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
 
 The following Bash script is a cronjob directory backup script that takes two arguments:
@@ -47,7 +49,9 @@ The following Bash script is a cronjob directory backup script that takes two ar
 
 It will also automatically clean up any backups that are more than 3 weeks old.
 
-See below:
+See below.
+
+## The backup script
 
 ```bash
 #!/bin/bash -e
@@ -66,11 +70,17 @@ find "${tgtpath}/*" -mtime +21 -type f -delete
 echo "Backed up ${1} to ${output} successfully"
 ```
 
+## Usage
+
 It can be used like this:
 
 ```bash
 ./backup_script.sh /path/to/backup /target/location
 ```
+
+{{< cc-ad >}}
+
+## Cronjob: Automated backups
 
 It can also be used as a cronjob. To edit your crontab, use the command:
 
@@ -88,6 +98,10 @@ SHELL=/bin/bash
 0 0,6,12,18 * * * /path/to/this/backup_script.sh /home/my/folder1 /mnt/backups/folder1.tar.gz
 ```
 
+## Final note
+
 For help with crontab job intervals, use the handy website [crontab.guru](https://crontab.guru).
 
 This can be used on Ubuntu, Linux Mint, Arch Linux, or any other Linux OS/environment that supports running bash and shell scripts natively.
+
+{{< adex01 >}}

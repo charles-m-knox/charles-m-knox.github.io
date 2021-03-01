@@ -37,6 +37,8 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+{{< cc-head >}}
+
 It was a bit annoying, but the regular expression on [this site](https://emailregex.com/) _almost_ worked out of the box. I had to add in a few line breaks:
 
 ```golang
@@ -68,3 +70,5 @@ func main() {
 ```
 
 Go Playground link: [https://play.golang.org/p/Gq67bAJeK2r](https://play.golang.org/p/Gq67bAJeK2r)
+
+{{< cc-ad >}}

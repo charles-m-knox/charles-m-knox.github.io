@@ -124,26 +124,34 @@ params:
         location: 0
         distance: 1000
         threshold: 0.4
-        minMatchCharLength: 0
+        minMatchCharLength: 3
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: about
+          name: About
+          url: /about
+          weight: 1
         - identifier: portfolio
           name: Portfolio
           url: /categories/portfolio
-          weight: 10
+          weight: 2
         - identifier: categories
           name: Categories
           url: /categories/
-          weight: 20
+          weight: 3
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 30
+          weight: 4
+        - identifier: search
+          name: Search
+          url: /search
+          weight: 5
         - identifier: home
           name: Home
           url: /
-          weight: 40
+          weight: 6
         # - identifier: example
         #   name: example.org
         #   url: https://example.org

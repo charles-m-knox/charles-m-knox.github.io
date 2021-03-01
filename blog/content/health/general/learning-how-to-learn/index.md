@@ -30,6 +30,8 @@ cover:
     hidden: false # only hide on current single page
 ---
 
+{{< cc-head >}}
+
 I've been taking the time regularly in my life to prioritize learning. I've been on the lookout for new things to learn.
 
 So, I explored options for online learning. I found [Coursera](https://www.coursera.org). A few of the top recommended online classes included a particularly interesting class called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/info).
@@ -80,6 +82,8 @@ I use Ubuntu 20.04 as my main system, so I'll recommend the [Gnome Pomodoro](htt
 
 Install it using its recommended installation method, and use the `gnome-tweak-tool` or the official Extensions application (built in to newer Gnome desktop versions) to ensure it's enabled. You can start it as a standalone application as well.
 
+{{< cc-ad >}}
+
 ## Process vs Product
 
 By focusing on process instead of product, it allows you to naturally work towards a goal instead of getting stressed about the end result. For example, following a process of spending 25 minutes on a task is more likely to succeed than trying to get the whole task done within 25 minutes. This principle operates complementary to the Pomodoro technique.
@@ -113,6 +117,8 @@ The true advantage of using chunks comes to fruition when they can be used with 
 ## Transfer
 
 Piggy-backing on the concept of **chunking**, **transfer** is the idea that a chunk can be *interleaved* with other areas of your mind (either via diffuse or focused modes of thinking!). This is **really important** because historically, clever people taking a chunk from one area of study in another field has lead to great innovations that might not otherwise have occurred.
+
+{{< cc-ad >}}
 
 ## Illusions of Competence
 
@@ -157,6 +163,8 @@ So, to best leverage memory, associate it with vivid mental imagery - even take 
 
 This may not be as much of a surprise, but using **metaphors and analogies** are extremely helpful with the process of understanding.
 
+{{< adex01 >}}
+
 ## Studying
 
 ![Study group image](images/annie-spratt-hCb3lIB8L8E-unsplash.jpg)
@@ -187,3 +195,4 @@ Thanks,
 
 Chuck
 
+{{< cc-ad >}}

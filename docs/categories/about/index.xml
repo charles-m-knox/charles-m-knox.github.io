@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Charles M. Knox</title>
+    <link>/categories/about/</link>
+    <description>Recent content in About on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 18:11:22 -0700</lastBuildDate><atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 28 Feb 2021 18:11:22 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Charles Knox. I am a professional software developer, and have nearly a decade of industry software development and information technology experience.
+I enjoy writing about techie-focused topics, as well as things I learn as I pursue of a life of healthy living.
+Occasionally, I&amp;rsquo;ll try and post some privacy-respecting ads or affiliate links for products or groups that I care about. I will never plug a company or corporate entity on this site that isn&amp;rsquo;t worthy.</description>
+    </item>
+    
+  </channel>
+</rss>
