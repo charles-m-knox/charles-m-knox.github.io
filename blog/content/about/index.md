@@ -93,7 +93,7 @@ If you have an ad blocker turned on, and absolutely don't want to turn it off, I
 * **[Bitcoin Cash](https://en.wikipedia.org/wiki/Bitcoin_Cash)**: `1DU7e1TNumajgaZLTk8LYADBZUidKvpGKH`
 * **[Basic Attention Token (BAT)](https://en.wikipedia.org/wiki/Basic_Attention_Token):** `0xa672b3C63Be650c29AbaD738d1CB1B83e817c43e`
 * **[DAI](https://en.wikipedia.org/wiki/Dai_(cryptocurrency))**: `0xB780bf6A9aB821D1e2D400835154e7d3dD5409c6`
-* **Stellar Lumens**: `GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37:::ucl:::1373794829`
+* **[Stellar Lumens](https://en.wikipedia.org/wiki/Stellar_(payment_network))**: `GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37:::ucl:::1373794829`
 
 Other cryptos: [Contact me and ask](#contact), I'm happy to oblige.
 
