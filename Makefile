@@ -7,7 +7,7 @@ build:
 	cp -ar blog/public ./docs
 	touch ./docs/.nojekyll
 	echo "charlesmknox.com" > ./docs/CNAME
-	cp ./static/robots.txt docs/robots.txt
+	# cp ./static/robots.txt docs/robots.txt
 
 serve:
 	cd blog && hugo serve -D -v
