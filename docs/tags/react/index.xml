@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>react on Charles M. Knox</title>
-    <link>/tags/react/</link>
+    <link>https://charlesmknox.com/tags/react/</link>
     <description>Recent content in react on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 22:41:02 +0000</lastBuildDate><atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2020 22:41:02 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Every Outbound Link Leaks Privacy</title>
-      <link>/tech/software/webdev/every-outbound-link-leaks-privacy/</link>
+      <link>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</link>
       <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
       
-      <guid>/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
+      <guid>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
       <description>The title is a bit of an exaggeration, but it&amp;rsquo;s partly true if you don&amp;rsquo;t use the correct properties in your HTML elements.
 In HTML, you should be using rel=&amp;quot;noopener noreferrer&amp;quot; along with target=&amp;quot;_blank&amp;quot; in your &amp;lt;a&amp;gt; tags - if not, you run major security risks. This GitHub Pages site shows you how: https://apal21.github.io/target-blank/
 Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&amp;rsquo;re using a linter when you write your code.</description>

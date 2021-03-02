@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>openapi on Charles M. Knox</title>
-    <link>/tags/openapi/</link>
+    <link>https://charlesmknox.com/tags/openapi/</link>
     <description>Recent content in openapi on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 13:35:00 +0000</lastBuildDate><atom:link href="/tags/openapi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2020 13:35:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/openapi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swagger and OpenAPI</title>
-      <link>/tech/software/openapi/swagger-and-openapi/</link>
+      <link>https://charlesmknox.com/tech/software/openapi/swagger-and-openapi/</link>
       <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
       
-      <guid>/tech/software/openapi/swagger-and-openapi/</guid>
+      <guid>https://charlesmknox.com/tech/software/openapi/swagger-and-openapi/</guid>
       <description>Swagger is a framework to enable arbitrary implementations of the OpenAPI specification.
 Why? In all of the projects I&amp;rsquo;ve worked on (personal and professional), one of the more consistent problems is documentation of API endpoints, as well as agreement upon REST interaction schema between microservices. It wasn&amp;rsquo;t until a few years into my software development career that I became aware of Swagger.
 Swagger lets you:

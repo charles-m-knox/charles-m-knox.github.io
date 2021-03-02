@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on Charles M. Knox</title>
-    <link>/tags/software/</link>
+    <link>https://charlesmknox.com/tags/software/</link>
     <description>Recent content in software on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 13:00:00 +0000</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 13:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go 1.16 Deprecating ioutil</title>
-      <link>/tech/software/go/go-1.16-deprecating-ioutil/</link>
+      <link>https://charlesmknox.com/tech/software/go/go-1.16-deprecating-ioutil/</link>
       <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
       
-      <guid>/tech/software/go/go-1.16-deprecating-ioutil/</guid>
+      <guid>https://charlesmknox.com/tech/software/go/go-1.16-deprecating-ioutil/</guid>
       <description>Go 1.16 was released - here are the release notes.
 The thing that caught my eye was that io/ioutil has been deprecated - here&amp;rsquo;s what you need to know
  The io/ioutil package has turned out to be a poorly defined and hard to understand collection of things. All functionality provided by the package has been moved to other packages. The io/ioutil package remains and will continue to work as before, but we encourage new code to use the new definitions in the io and os packages.</description>
@@ -20,10 +20,10 @@ The thing that caught my eye was that io/ioutil has been deprecated - here&amp;r
     
     <item>
       <title>How to Install Postman on Ubuntu 20.04</title>
-      <link>/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</link>
+      <link>https://charlesmknox.com/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</link>
       <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
       
-      <guid>/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</guid>
+      <guid>https://charlesmknox.com/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</guid>
       <description>Installing Postman with Canonical&amp;rsquo;s Snap does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
 Installation First, download the latest release:
 wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz Extract the underlying archive to /opt:
@@ -32,20 +32,20 @@ sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the
     
     <item>
       <title>How to Install Docker on Ubuntu 20.04</title>
-      <link>/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</link>
+      <link>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</link>
       <pubDate>Fri, 24 Apr 2020 15:48:30 +0000</pubDate>
       
-      <guid>/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</guid>
+      <guid>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</guid>
       <description>It&amp;rsquo;s April 24, 2020. Ubuntu 20.04 just came out. Installing Docker via the method I typically use via get.docker.com does not seem to work. Additionally, the Docker website doesn&amp;rsquo;t seem to have install instructions for Ubuntu 20.04 yet. Snap installations are recommended by Canonical, but from past experience with the Docker Snap, I prefer to stick to a native method of installation.
 If you don&amp;rsquo;t have Ubuntu 20.04 yet, it was released on April 23, 2020.</description>
     </item>
     
     <item>
       <title>Regular Expression for URL-Friendly Titles</title>
-      <link>/tech/software/go/regular-expression-for-url-friendly-titles/</link>
+      <link>https://charlesmknox.com/tech/software/go/regular-expression-for-url-friendly-titles/</link>
       <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
       
-      <guid>/tech/software/go/regular-expression-for-url-friendly-titles/</guid>
+      <guid>https://charlesmknox.com/tech/software/go/regular-expression-for-url-friendly-titles/</guid>
       <description>The following Go code snippet will convert a string from this:
 Wow! This message&#39;s getting some _good_ publicity! To this:
 wow-this-messages-getting-some-good The function The function itself, and its imports:
@@ -54,20 +54,20 @@ import ( &amp;#34;math&amp;#34; &amp;#34;regexp&amp;#34; &amp;#34;strings&amp;#3
     
     <item>
       <title>String Compression in Go</title>
-      <link>/tech/software/go/string-compression/</link>
+      <link>https://charlesmknox.com/tech/software/go/string-compression/</link>
       <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
       
-      <guid>/tech/software/go/string-compression/</guid>
+      <guid>https://charlesmknox.com/tech/software/go/string-compression/</guid>
       <description>Here&amp;rsquo;s how to compress and decompress a string in Golang using the gzip library.
 package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;bytes&amp;#34; &amp;#34;io/ioutil&amp;#34; ) // Credit where credit is due! // https://stackoverflow.com/a/19267224 func compressString(str string) (string, error) { var b bytes.Buffer gz := gzip.NewWriter(&amp;amp;b) if _, err := gz.Write([]byte(str)); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } if err := gz.Close(); err != nil { fmt.</description>
     </item>
     
     <item>
       <title>Using Angular and Google Analytics</title>
-      <link>/tech/software/angular/using-angular-and-google-analytics/</link>
+      <link>https://charlesmknox.com/tech/software/angular/using-angular-and-google-analytics/</link>
       <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
       
-      <guid>/tech/software/angular/using-angular-and-google-analytics/</guid>
+      <guid>https://charlesmknox.com/tech/software/angular/using-angular-and-google-analytics/</guid>
       <description>By default, Angular does not work very well with Google Analytics. It will only announce a page-view event when refreshing the page. This makes the router in Angular somewhat useless.
 Luckily, there is an npm package called angular-gtag that hooks into the root app component of your Angular project and sends views upon router navigation.
 However, I found that the README had a few implicit steps that I needed to do some searching for.</description>
@@ -75,10 +75,10 @@ However, I found that the README had a few implicit steps that I needed to do so
     
     <item>
       <title>How to Fix Angular Not Scrolling to Top for Routerlinks</title>
-      <link>/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</link>
+      <link>https://charlesmknox.com/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</link>
       <pubDate>Fri, 17 Apr 2020 23:30:16 +0000</pubDate>
       
-      <guid>/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</guid>
+      <guid>https://charlesmknox.com/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</guid>
       <description>By default, when using Angular routerLink tags in your HTML, the behavior users will experience when clicking these links is that the browser keeps the current scrollbar positions, before and after clicking.
 There are cases where this is undesirable, such as when using an Angular router to route URLs (such as /home or /articles ) to Angular components.
 To fix this, add in your app-routing.module.ts file the following into the @NgModule imports:</description>
@@ -86,10 +86,10 @@ To fix this, add in your app-routing.module.ts file the following into the @NgMo
     
     <item>
       <title>Every Outbound Link Leaks Privacy</title>
-      <link>/tech/software/webdev/every-outbound-link-leaks-privacy/</link>
+      <link>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</link>
       <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
       
-      <guid>/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
+      <guid>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
       <description>The title is a bit of an exaggeration, but it&amp;rsquo;s partly true if you don&amp;rsquo;t use the correct properties in your HTML elements.
 In HTML, you should be using rel=&amp;quot;noopener noreferrer&amp;quot; along with target=&amp;quot;_blank&amp;quot; in your &amp;lt;a&amp;gt; tags - if not, you run major security risks. This GitHub Pages site shows you how: https://apal21.github.io/target-blank/
 Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&amp;rsquo;re using a linter when you write your code.</description>
@@ -97,10 +97,10 @@ Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&am
     
     <item>
       <title>How to Backup a Directory/Folder in Bash</title>
-      <link>/tech/software/bash/backup-a-folder-in-bash/</link>
+      <link>https://charlesmknox.com/tech/software/bash/backup-a-folder-in-bash/</link>
       <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
       
-      <guid>/tech/software/bash/backup-a-folder-in-bash/</guid>
+      <guid>https://charlesmknox.com/tech/software/bash/backup-a-folder-in-bash/</guid>
       <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
 The following Bash script is a cronjob directory backup script that takes two arguments:
  the folder to backup the output directory  It will also automatically clean up any backups that are more than 3 weeks old.
@@ -110,10 +110,10 @@ The backup script #!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; 
     
     <item>
       <title>Swagger and OpenAPI</title>
-      <link>/tech/software/openapi/swagger-and-openapi/</link>
+      <link>https://charlesmknox.com/tech/software/openapi/swagger-and-openapi/</link>
       <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
       
-      <guid>/tech/software/openapi/swagger-and-openapi/</guid>
+      <guid>https://charlesmknox.com/tech/software/openapi/swagger-and-openapi/</guid>
       <description>Swagger is a framework to enable arbitrary implementations of the OpenAPI specification.
 Why? In all of the projects I&amp;rsquo;ve worked on (personal and professional), one of the more consistent problems is documentation of API endpoints, as well as agreement upon REST interaction schema between microservices. It wasn&amp;rsquo;t until a few years into my software development career that I became aware of Swagger.
 Swagger lets you:
@@ -122,10 +122,10 @@ Swagger lets you:
     
     <item>
       <title>Go Regular Expression for Emails</title>
-      <link>/tech/software/go/email-regexp/</link>
+      <link>https://charlesmknox.com/tech/software/go/email-regexp/</link>
       <pubDate>Fri, 17 Apr 2020 13:31:00 +0000</pubDate>
       
-      <guid>/tech/software/go/email-regexp/</guid>
+      <guid>https://charlesmknox.com/tech/software/go/email-regexp/</guid>
       <description> It was a bit annoying, but the regular expression on this site almost worked out of the box. I had to add in a few line breaks:
 package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var emailRegEx = regexp.MustCompile( `^(?:[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+(?:\.[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+)*|&amp;#34;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&amp;#34;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])`) func verifyEmail(email string) bool { if (emailRegEx.MatchString(email) == true) { return true } return false } func main() { fmt.Println(verifyEmail(&amp;#34;some.user@gmail.com&amp;#34;)) } Go Playground link: https://play.golang.org/p/Gq67bAJeK2r
   </description>
@@ -133,10 +133,10 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var email
     
     <item>
       <title>go mod init Not Working</title>
-      <link>/tech/software/go/go-mod-init/</link>
+      <link>https://charlesmknox.com/tech/software/go/go-mod-init/</link>
       <pubDate>Fri, 17 Apr 2020 13:30:00 +0000</pubDate>
       
-      <guid>/tech/software/go/go-mod-init/</guid>
+      <guid>https://charlesmknox.com/tech/software/go/go-mod-init/</guid>
       <description>Disclaimer: I&amp;rsquo;m using Go version 1.12.7 for this. It may not work for earlier versions of Go.
 If you&amp;rsquo;ve ever tried to get into Go, one of the first things you&amp;rsquo;ve probably struggled with is simply creating a Go module. Go likes to nag you about $GOPATH, and as someone that is not a native Gopher, I don&amp;rsquo;t want to deal with it.
 Ever run into this error when running go mod init?</description>

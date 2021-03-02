@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ui on Charles M. Knox</title>
-    <link>/tags/ui/</link>
+    <link>https://charlesmknox.com/tags/ui/</link>
     <description>Recent content in ui on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 17:02:25 +0000</lastBuildDate><atom:link href="/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 17:02:25 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Angular and Google Analytics</title>
-      <link>/tech/software/angular/using-angular-and-google-analytics/</link>
+      <link>https://charlesmknox.com/tech/software/angular/using-angular-and-google-analytics/</link>
       <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
       
-      <guid>/tech/software/angular/using-angular-and-google-analytics/</guid>
+      <guid>https://charlesmknox.com/tech/software/angular/using-angular-and-google-analytics/</guid>
       <description>By default, Angular does not work very well with Google Analytics. It will only announce a page-view event when refreshing the page. This makes the router in Angular somewhat useless.
 Luckily, there is an npm package called angular-gtag that hooks into the root app component of your Angular project and sends views upon router navigation.
 However, I found that the README had a few implicit steps that I needed to do some searching for.</description>
@@ -20,10 +20,10 @@ However, I found that the README had a few implicit steps that I needed to do so
     
     <item>
       <title>How to Fix Angular Not Scrolling to Top for Routerlinks</title>
-      <link>/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</link>
+      <link>https://charlesmknox.com/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</link>
       <pubDate>Fri, 17 Apr 2020 23:30:16 +0000</pubDate>
       
-      <guid>/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</guid>
+      <guid>https://charlesmknox.com/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</guid>
       <description>By default, when using Angular routerLink tags in your HTML, the behavior users will experience when clicking these links is that the browser keeps the current scrollbar positions, before and after clicking.
 There are cases where this is undesirable, such as when using an Angular router to route URLs (such as /home or /articles ) to Angular components.
 To fix this, add in your app-routing.module.ts file the following into the @NgModule imports:</description>
