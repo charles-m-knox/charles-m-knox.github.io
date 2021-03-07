@@ -6,7 +6,17 @@
     <description>Recent content in portfolio on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 15:15:50 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio: Firefox Browser Addon Web Extension: Containers Helper</title>
+      <link>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</guid>
+      <description>Preface Before talking about my addon directly, first I wanted to explain the context behind why it was created in the first place.
+As a privacy enthusiast, I often find myself configuring my browser to match my needs. With Firefox, the multi-account containers extension provides a unique feature that separates Firefox from the rest of the browsers - the ability to separate cookies and browsing contexts on a per-tab basis.</description>
+    </item>
+    
     <item>
       <title>Portfolio: Professional Blog Site</title>
       <link>https://charlesmknox.com/portfolio/fullstack/blog-site/</link>
