@@ -85,7 +85,13 @@ As of writing this article on 2/28/2021, I am not currently promoting anything b
 
 ## Ways to support me directly
 
-If you have an ad blocker turned on, and absolutely don't want to turn it off, I understand. Here are some ways to send me a tip:
+If you have an ad blocker turned on, and absolutely don't want to turn it off, I understand. I don't make much money from the ads anyways, since I personally block them and I don't really like them.
+
+Here are some ways to send me a tip:
+
+## Buy me a coffee! 🥑
+
+* **[Buy me a ~~Coffee~~ healthy avocado! 🥑 ](https://www.buymeacoffee.com/charles.m.knox)** I can't drink much coffee, but I do need to eat healthy, and avocados are expensive! 🙂
 
 ### Tip via crypto currencies
 
