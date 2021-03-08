@@ -1,5 +1,5 @@
 ---
-title: "Portfolio: Professional Blog Site"
+title: "Professional Blog Site"
 date: 2021-02-28T15:15:50Z
 # weight: 1
 # aliases: ["/portfolio/page"]

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio: Firefox Browser Addon Web Extension: Containers Helper"
+title: "Firefox Browser Addon Web Extension: Containers Helper"
 date: 2021-03-07T00:00:00Z
 # weight: 1
 # aliases: ["/portfolio/page"]
@@ -30,6 +30,14 @@ cover:
 {{< rawhtml >}}
 <img align="right" src="https://github.com/charles-m-knox/firefox-containers-helper/raw/main/src/icons/icon_cube.png">
 {{< /rawhtml >}}
+
+## Check out the extension
+
+[View the extension here!](https://addons.mozilla.org/en-US/firefox/addon/containers-helper/) You can also view the [source code here on GitHub](https://github.com/charles-m-knox/firefox-containers-helper).
+
+![v0.0.10 Main popup](https://github.com/charles-m-knox/firefox-containers-helper/raw/main/readme-assets/v0.0.10/screenshot_main_v0.0.10.png)
+
+The rest of this article is a writeup on the extension itself - enjoy!
 
 ## Preface
 
