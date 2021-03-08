@@ -89,7 +89,7 @@ If you have an ad blocker turned on, and absolutely don't want to turn it off, I
 
 Here are some ways to send me a tip:
 
-## Buy me a coffee! 🥑
+### Buy me a coffee! 🥑
 
 * **[Buy me a ~~Coffee~~ healthy avocado! 🥑 ](https://www.buymeacoffee.com/charles.m.knox)** I can't drink much coffee, but I do need to eat healthy, and avocados are expensive! 🙂
 
