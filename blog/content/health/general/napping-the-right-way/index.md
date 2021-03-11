@@ -168,7 +168,7 @@ This question can lead us down the rabbit hole of [polyphasic sleep](https://en.
 
 _However_, with that being said... a well-executed nap can [reverse the hormonal impact of not getting a good night's sleep](https://www.sciencealert.com/napping-may-be-able-to-reverse-the-damage-of-sleep-deprivation). Just don't do it regularly - the evidence provided throughout this article does not support the notion that it's OK to reduce longer sleep cycles in favor of naps.
 
-{{< adex01 >}}
+{{< cc-ad >}}
 
 ## Summary
 

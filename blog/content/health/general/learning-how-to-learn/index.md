@@ -163,7 +163,7 @@ So, to best leverage memory, associate it with vivid mental imagery - even take 
 
 This may not be as much of a surprise, but using **metaphors and analogies** are extremely helpful with the process of understanding.
 
-{{< adex01 >}}
+{{< cc-ad >}}
 
 ## Studying
 

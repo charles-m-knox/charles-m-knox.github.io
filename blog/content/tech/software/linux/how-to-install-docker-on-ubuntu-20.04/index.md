@@ -157,8 +157,6 @@ sudo apt update
 
 </details>
 
-{{< adex01 >}}
-
 ## Done
 
 All set! You should now be able to run Docker containers, as well as orchestrate services with Docker compose files.

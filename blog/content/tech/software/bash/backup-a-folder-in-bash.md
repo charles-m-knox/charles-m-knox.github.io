@@ -104,4 +104,4 @@ For help with crontab job intervals, use the handy website [crontab.guru](https:
 
 This can be used on Ubuntu, Linux Mint, Arch Linux, or any other Linux OS/environment that supports running bash and shell scripts natively.
 
-{{< adex01 >}}
+{{< cc-ad >}}

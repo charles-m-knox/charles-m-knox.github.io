@@ -92,8 +92,6 @@ Don't forget to clean up the downloaded `postman.tar.gz` file:
 rm postman.tar.gz
 ```
 
-{{< adex01 >}}
-
 ## Done!
 
 That's it! Check your Ubuntu _Activities_ menu (top left corner) to verify that Postman shows up. The first time I opened the Activities menu, it did not show the entry, so I opened it one more time and it showed up the second time. I'll assume it just hadn't built an index of all available applications on the first try.

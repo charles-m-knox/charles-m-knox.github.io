@@ -213,7 +213,7 @@ The result is now:
         type: "string"
 ```
 
-{{< adex01 >}}
+{{< cc-head >}}
 
 ## Completing the Article Schema
 
@@ -499,8 +499,6 @@ Play around with the web page and observe that it provides documentation and ins
 ## Related Content
 
 * https://openapi.tools/ - a website containing a list of tools related to OpenAPI documents.
-
-{{< adex01 >}}
 
 ## Summary
 

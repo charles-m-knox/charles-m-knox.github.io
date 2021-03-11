@@ -90,10 +90,6 @@ params:
           plug a company or corporate entity on this site that isn't worthy.
 
     socialIcons:
-        # - name: twitter
-        #   url: "https://twitter.com/"
-        # - name: stackoverflow
-        #   url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/charles-m-knox"
         - name: gitlab
@@ -104,6 +100,16 @@ params:
           url: "mailto:8a60e4b7-3cc7-4459-a9e0-3e4e68d1d4db@aleeas.com"
         - name: reddit
           url: "https://reddit.com/u/charles-m-knox"
+        - name: twitter
+          url: "https://twitter.com/charlesmknox"
+        - name: discord
+          url: "https://discord.com/users/257521223385219073"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/3798673/charles-m-knox"
+        - name: dev
+          url: "https://dev.to/charlesmknox"
+        - name: medium
+          url: "https://medium.com/@charles-m-knox"
         - name: rss
           url: "index.xml"
 

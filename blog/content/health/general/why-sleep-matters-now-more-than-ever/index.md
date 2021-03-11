@@ -80,7 +80,7 @@ Additionally, when sleep loss occurs, the preference for food groups shifts: You
   * Sleeping is a bit more like _landing a plane_ than an _on/off switch_.
 * Consider removing all visible clocks from your room. Knowing the time does not help with managing stress when you're failing to fall asleep.
 
-{{< adex01 >}}
+{{< cc-ad >}}
 
 ## Devices Before Bed
 
