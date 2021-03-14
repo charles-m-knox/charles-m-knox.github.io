@@ -2,11 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://charlesmknox.com/tags/automation/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://charlesmknox.com/categories/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/coding/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/collaboration/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/docker/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/general/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/general/covid-vaccine-bot/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/privacy/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/python/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/categories/software/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/software/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/tech/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/tor/</loc>
+    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
@@ -18,9 +63,6 @@
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/portfolio/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/categories/about/</loc>
@@ -35,9 +77,6 @@
     <loc>https://charlesmknox.com/portfolio/fullstack/blog-site/</loc>
     <lastmod>2021-02-28T15:15:50+00:00</lastmod>
   </url><url>
-    <loc>https://charlesmknox.com/tags/coding/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://charlesmknox.com/tech/software/go/</loc>
     <lastmod>2021-02-16T13:00:00+00:00</lastmod>
   </url><url>
@@ -48,21 +87,6 @@
     <lastmod>2021-02-16T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/release-notes/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/categories/software/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tech/software/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/software/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/tech/</loc>
-    <lastmod>2021-02-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tech/</loc>
     <lastmod>2021-02-16T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/categories/health/</loc>
@@ -119,9 +143,6 @@
     <loc>https://charlesmknox.com/tags/ubuntu/</loc>
     <lastmod>2020-04-24T15:48:51+00:00</lastmod>
   </url><url>
-    <loc>https://charlesmknox.com/tags/docker/</loc>
-    <lastmod>2020-04-24T15:48:30+00:00</lastmod>
-  </url><url>
     <loc>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</loc>
     <lastmod>2020-04-24T15:48:30+00:00</lastmod>
   </url><url>
@@ -177,9 +198,6 @@
     <lastmod>2020-04-17T22:41:02+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/leak/</loc>
-    <lastmod>2020-04-17T22:41:02+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/privacy/</loc>
     <lastmod>2020-04-17T22:41:02+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/react/</loc>

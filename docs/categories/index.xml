@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software</title>
+      <link>https://charlesmknox.com/categories/software/</link>
+      <pubDate>Sat, 13 Mar 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/categories/software/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Portfolio</title>
       <link>https://charlesmknox.com/categories/portfolio/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 28 Feb 2021 18:11:22 -0700</pubDate>
       
       <guid>https://charlesmknox.com/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://charlesmknox.com/categories/software/</link>
-      <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
-      
-      <guid>https://charlesmknox.com/categories/software/</guid>
       <description></description>
     </item>
     

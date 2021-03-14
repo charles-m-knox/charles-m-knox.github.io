@@ -6,7 +6,17 @@
     <description>Recent content in docker on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 15:48:30 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How we used automation to get COVID vaccines early</title>
+      <link>https://charlesmknox.com/tech/software/general/covid-vaccine-bot/</link>
+      <pubDate>Sat, 13 Mar 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/tech/software/general/covid-vaccine-bot/</guid>
+      <description>💉 Introduction A friend of mine, Tynick, and I crossed paths on a project he started - he wanted to get a COVID vaccine by doing a volunteer shift. The two websites that offer volunteering signups occasionally had openings, but they were always taken almost immediately.
+So, he had the brilliant idea to use some clever Python to automatically check the website, and notify him with Slack or Twilio whenever there&amp;rsquo;s a signup available.</description>
+    </item>
+    
     <item>
       <title>How to Install Docker on Ubuntu 20.04</title>
       <link>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</link>
