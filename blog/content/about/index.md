@@ -79,7 +79,7 @@ As of writing this article on 2/28/2021, I am not currently promoting anything b
 
 * **[ContextCue](https://contextcue.com)** - *ContextCue is a privacy-focused advertising network that allows advertisers and publishers to grow their business with fast, lightweight, contextual ads that don't track, collect, or store user data*
   * This ad network seems like it was written by regular software developers with good intentions, and written for the modern world. Consider removing ContextCue from your ad blocker globally.
-  * ContextCue allows me to pick a variety of ad topics. I will pick ads topics according to the article I'm writing, so you may see e.g. finance or computer related topics. **This is not you being tracked, this is me curating advertisements according to what you're reading**.
+  * ContextCue allows me to pick a variety of ad topics. I will pick ads topics according to the article I'm writing, so you may see e.g. finance or computer related topics. **This is not you being tracked, this is me curating advertisements according to what I'm writing**.
 
 ### Former Ad Networks
 
