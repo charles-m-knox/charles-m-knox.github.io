@@ -46,6 +46,15 @@ This blog's source code is publicly viewable and contained [here on GitHub](http
 
 [📧 Contact me via email](mailto:579af7a8-9a71-4570-a0b2-9e5ae46346a7@aleeas.com), this is the preferred method. I use a mail forwarding service for all of my public-facing email links - when you send this to me, it will go directly to my inbox.
 
+### Other social platforms
+
+For social outlets that are not on the [front page](https://charlesmknox.com):
+
+* https://gitlab.com/charles-m-knox
+* https://stackoverflow.com/users/3798673/charles-m-knox
+* https://dev.to/charlesmknox
+* https://medium.com/@charles-m-knox
+
 ## Privacy and data
 
 **I do not personally collect any data about you when you visit my site.**
