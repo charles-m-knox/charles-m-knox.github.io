@@ -62,7 +62,7 @@ For social outlets that are not on the [front page](https://charlesmknox.com):
 
 I also have recently created a Discord server where you can connect with me. You can join here:
 
-https://discord.com/channels/820998097773002794/820998988031066153
+https://discord.gg/94sX5ex3Ht
 
 ## Privacy and data
 
