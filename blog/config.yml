@@ -73,6 +73,8 @@ params:
               url: https://resume.charlesmknox.com
             - name: Blog
               url: categories
+            - name: Music
+              url: https://aperspection.com
 
     # home-info mode
     homeInfoParams:

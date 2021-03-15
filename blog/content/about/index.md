@@ -56,7 +56,7 @@ For social outlets that are not on the [front page](https://charlesmknox.com):
 * https://stackoverflow.com/users/3798673/charles-m-knox
 * https://dev.to/charlesmknox
 * https://medium.com/@charles-m-knox
-* https://opencollective.com/charles-knox
+* https://opencollective.com/charles-m-knox
 
 ### Discord server
 
@@ -118,7 +118,7 @@ Here are some ways to send me a tip:
 
 ### OpenCollective
 
-You can see my [OpenCollective profile here](https://opencollective.com/charles-knox). As of writing this (3/15/2021), I do not have any repositories with >100 GitHub stars, so I cannot host any repositories there. As soon as I do, I'll add them to OpenCollective, and people can make contributions.
+You can see my [OpenCollective profile here](https://opencollective.com/charles-m-knox). As of writing this (3/15/2021), I do not have any repositories with >100 GitHub stars, so I cannot host any repositories there. As soon as I do, I'll add them to OpenCollective, and people can make contributions.
 
 ### Tip via crypto currencies
 
