@@ -29,6 +29,8 @@ My name is Charles Knox. I am a professional software developer,
 and have nearly a decade of industry software development and
 information technology experience.
 
+I write software that I hope people will use. I am always working on solutions that will make your life easier.
+
 I enjoy writing about techie-focused topics, as well as
 things I learn as I pursue of a life of healthy living.
 
@@ -54,6 +56,13 @@ For social outlets that are not on the [front page](https://charlesmknox.com):
 * https://stackoverflow.com/users/3798673/charles-m-knox
 * https://dev.to/charlesmknox
 * https://medium.com/@charles-m-knox
+* https://opencollective.com/charles-knox
+
+### Discord server
+
+I also have recently created a Discord server where you can connect with me. You can join here:
+
+https://discord.com/channels/820998097773002794/820998988031066153
 
 ## Privacy and data
 
@@ -106,6 +115,10 @@ Here are some ways to send me a tip:
 ### Buy me a coffee! 🥑
 
 * **[Buy me a ~~Coffee~~ healthy avocado! 🥑 ](https://www.buymeacoffee.com/charles.m.knox)** I can't drink much coffee, but I do need to eat healthy, and avocados are expensive! 🙂
+
+### OpenCollective
+
+You can see my [OpenCollective profile here](https://opencollective.com/charles-knox). As of writing this (3/15/2021), I do not have any repositories with >100 GitHub stars, so I cannot host any repositories there. As soon as I do, I'll add them to OpenCollective, and people can make contributions.
 
 ### Tip via crypto currencies
 
