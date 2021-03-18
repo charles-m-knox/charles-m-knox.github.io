@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Development on Charles M. Knox</title>
+    <title>Updates on Charles M. Knox</title>
     <link>https://charlesmknox.com/tech/software/webdev/</link>
-    <description>Recent content in Web Development on Charles M. Knox</description>
+    <description>Recent content in Updates on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Apr 2020 22:41:02 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tech/software/webdev/index.xml" rel="self" type="application/rss+xml" />

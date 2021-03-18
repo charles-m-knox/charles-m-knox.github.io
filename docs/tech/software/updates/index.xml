@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Charles M. Knox</title>
+    <link>https://charlesmknox.com/tech/software/updates/</link>
+    <description>Recent content in Updates on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tech/software/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Containers Helper Extension v0.0.14 Released</title>
+      <link>https://charlesmknox.com/tech/software/updates/firefox-containers-helper-v0.0.14/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/tech/software/updates/firefox-containers-helper-v0.0.14/</guid>
+      <description>Firefox Containers Helper v0.0.14 is out now, as of 3/17/2021 - previously v0.0.10, released back in November 2020, a few awesome features have been added!
+Check out the extension View the extension here! You can also view the source code here on GitHub.
+Thank you to the community What makes this release of Firefox Containers Helper special is that it has received some awesome community engagement! I really never thought that it would gain enough attention or usage from people around the world for people to create GitHub issues, pull requests, and become supporters</description>
+    </item>
+    
+  </channel>
+</rss>

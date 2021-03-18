@@ -2,13 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://charlesmknox.com/tags/automation/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+    <loc>https://charlesmknox.com/tags/addon/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/categories/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/containers-helper/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/extension/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/firefox/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/updates/firefox-containers-helper-v0.0.14/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/categories/software/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/software/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/tech/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/update/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tech/software/updates/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/automation/</loc>
     <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/coding/</loc>
@@ -30,24 +69,6 @@
     <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/python/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/categories/software/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tech/software/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/software/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/tech/</loc>
-    <lastmod>2021-03-13T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tech/</loc>
     <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/tor/</loc>
@@ -209,10 +230,10 @@
     <loc>https://charlesmknox.com/tags/security/</loc>
     <lastmod>2020-04-17T22:41:02+00:00</lastmod>
   </url><url>
-    <loc>https://charlesmknox.com/tags/web/</loc>
+    <loc>https://charlesmknox.com/tech/software/webdev/</loc>
     <lastmod>2020-04-17T22:41:02+00:00</lastmod>
   </url><url>
-    <loc>https://charlesmknox.com/tech/software/webdev/</loc>
+    <loc>https://charlesmknox.com/tags/web/</loc>
     <lastmod>2020-04-17T22:41:02+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/webdev/</loc>
