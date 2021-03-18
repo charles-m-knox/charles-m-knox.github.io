@@ -23,7 +23,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: true
-description: "A guide on how to install Docker on Ubuntu 20.04. May be outdated."
+description: "Firefox Containers Helper v0.0.14 is out now, as of 3/17/2021."
 disableHLJS: false # to disable highlightjs
 disableShare: false
 searchHidden: false
