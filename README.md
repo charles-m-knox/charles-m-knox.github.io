@@ -34,7 +34,13 @@ Output will be contained in `blog/public`.
 https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
 
 ```bash
-git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
+git clone https://github.com/adityatelange/hugo-PaperMod.git ./blog/themes/PaperMod
+```
+
+Alternatively, use a submodule:
+
+```bash
+git submodule add https://github.com/adityatelange/hugo-PaperMod.git ./blog/themes/PaperMod --depth=1
 git submodule update --init --recursive
 ```
 
