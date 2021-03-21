@@ -121,6 +121,10 @@ In general, the footprint of this project is fairly small. I didn't want to mini
 
 You can view the source code [here](https://github.com/charles-m-knox/bananappeal.co) on GitHub.
 
+### Hosting
+
+The site is hosted via GitHub pages, and proxied behind Cloudflare, which automatically uses TLS connections and manages them independently, so we don't have to deal with LetsEncrypt or other certificate management services. Very convenient.
+
 ## Where the results of this project went
 
 [BananAppeal.co](https://bananappeal.co) is gaining traction, and I'm happy to have been a part of their journey. Best of luck!
