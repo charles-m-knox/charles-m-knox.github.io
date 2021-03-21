@@ -115,7 +115,7 @@ Here are some ways to send me a tip:
 ### GitHub Sponsors
 
 {{< rawhtml >}}
-<iframe src="https://github.com/sponsors/charles-m-knox/card" title="Sponsor charles-m-knox" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/charles-m-knox/card" title="Sponsor charles-m-knox" height="150" width="600" style="border: 0; min-width: 100%;"></iframe>
 {{< /rawhtml >}}
 
 ### Buy me a coffee! 🥑
