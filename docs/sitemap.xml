@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://charlesmknox.com/tags/addon/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <loc>https://charlesmknox.com/portfolio/fullstack/bananappealco/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/categories/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/categories/portfolio/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/portfolio/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/portfolio/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlesmknox.com/tags/addon/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/containers-helper/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/software/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/tags/tech/</loc>
@@ -75,15 +87,6 @@
     <lastmod>2021-03-13T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/categories/portfolio/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/portfolio/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charlesmknox.com/tags/portfolio/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlesmknox.com/categories/about/</loc>

@@ -6,7 +6,19 @@
     <description>Recent content in Portfolio on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BananAppeal.co: Small Business Landing Page</title>
+      <link>https://charlesmknox.com/portfolio/fullstack/bananappealco/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/portfolio/fullstack/bananappealco/</guid>
+      <description>A booming, Etsy-based online retailer called BananAppeal.co was in need of a landing page, and I wanted to help them out. So, in less than one day, I assembled a simple (but very sleek) landing page for their business.
+You can view the page here: bananappeal.co
+Video Sorry, your browser doesn&#39;t support embedded videos.  Performance/Accessibility/Best Practices/SEO Using Lighthouse, the website meets almost 100% across every web-based metric:
+The only metric it falls behind on is the recommendation to serve next-gen images instead of the more universally compatible jpg/png images.</description>
+    </item>
+    
     <item>
       <title>Firefox Browser Addon Web Extension: Containers Helper</title>
       <link>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</link>

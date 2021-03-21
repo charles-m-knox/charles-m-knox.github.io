@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://charlesmknox.com/tags/portfolio/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>addon</title>
       <link>https://charlesmknox.com/tags/addon/</link>
@@ -130,15 +139,6 @@
       <pubDate>Sat, 13 Mar 2021 19:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tags/tor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portfolio</title>
-      <link>https://charlesmknox.com/tags/portfolio/</link>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlesmknox.com/tags/portfolio/</guid>
       <description></description>
     </item>
     
