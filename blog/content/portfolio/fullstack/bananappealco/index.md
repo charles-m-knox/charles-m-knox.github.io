@@ -48,7 +48,7 @@ Using [Lighthouse](https://web.dev), the website meets almost 100% across every 
 
 The only metric it falls behind on is the recommendation to serve next-gen images instead of the more universally compatible jpg/png images. I opted not to go through that exercise for this project.
 
-### Attributions
+## Attributions
 
 * [Pink notebook](https://unsplash.com/photos/lFmuWU0tv4M)
 * [Figurines](https://unsplash.com/photos/vCYfdVhIZ2Y)
@@ -60,6 +60,8 @@ The only metric it falls behind on is the recommendation to serve next-gen image
 ## Technical discussion
 
 The site is very simple; despite this portfolio item being categorized as "full stack", this is purely frontend, uses *almost* no JavaScript whatsoever. I am leveraging the latest Bootstrap 5 for the layout and components.
+
+### Animations
 
 The [AOS](https://github.com/michalsnik/aos) library really makes a difference, though. The animations are extremely easy to implement:
 
