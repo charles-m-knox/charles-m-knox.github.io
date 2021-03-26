@@ -30,8 +30,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Recently I stumbled upon [a Reddit post](https://www.reddit.com/r/changemyview/comments/g4szax/cmv_it_should_be_the_standard_in_offices_to_allow/) in the [ChangeMyView](https://reddit.com/r/changemyview) subreddit that suggested that it should be "the standard" for employers to allow 20-minute naps around noon.
 
 As someone that values having some downtime around lunch to close my eyes and nap, this topic was worth reviewing in detail. What are the benefits of taking naps? How long should naps actually be? When should they be taken? Can an employer allow an employee to take naps? Continue reading for answers.
@@ -51,8 +49,6 @@ The following essential notes on naps are backed up by a variety of different (s
 * **Don't nap later in the afternoon.**
   * Taking naps after 3pm [can actually interfere with regular scheduled sleep at night](https://www.healthline.com/health/how-long-should-i-nap#best-time-for-a-nap).
   * Later in this article, we present a table that shows when to properly take a nap based on when you wake up, need to be at work, need to go to bed, etc. This is useful for individuals with non-standard shifts.
-
-{{< cc-ad >}}
 
 ## Sleep Stages & Cycles
 
@@ -140,8 +136,6 @@ This table shows an ideal circadian schedule, including 8 hours of sleep, 16 hou
 | 10:00 PM | 1:00 AM     | 4:00 AM  | 6:30 AM    | 9:00 AM   | 2:00 PM   |
 | 11:00 PM | 2:00 AM     | 5:00 AM  | 7:30 AM    | 10:00 AM  | 3:00 PM   |
 
-{{< cc-ad >}}
-
 ## How to Nap at Work
 
 In order to actually take a nap without going home during the day, your choices are limited:
@@ -168,8 +162,6 @@ This question can lead us down the rabbit hole of [polyphasic sleep](https://en.
 
 _However_, with that being said... a well-executed nap can [reverse the hormonal impact of not getting a good night's sleep](https://www.sciencealert.com/napping-may-be-able-to-reverse-the-damage-of-sleep-deprivation). Just don't do it regularly - the evidence provided throughout this article does not support the notion that it's OK to reduce longer sleep cycles in favor of naps.
 
-{{< cc-ad >}}
-
 ## Summary
 
 Taking a midday nap of 10-20 minutes approximately 2.5 hours after substantial food intake *(such as lunch)*  can yield measurable neurological, biochemical, and physical changes in the body.
@@ -188,5 +180,3 @@ The following links are suggested for your reading, _in addition to_ the ones di
 * [Sleep.org: Sleeping During the Day](https://www.sleep.org/articles/sleeping-during-the-day/)
 * [WikiHow: How to sleep at work](https://www.wikihow.com/Sleep-at-Work)
 * [Wikipedia: Power Nap](https://en.wikipedia.org/wiki/Power_nap)
-
-{{< cc-ad >}}

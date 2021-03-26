@@ -95,38 +95,33 @@ As of writing this article on 2/28/2021, I am not currently promoting anything b
 
 ## List of current ad networks
 
-* **[ContextCue](https://contextcue.com)** - *ContextCue is a privacy-focused advertising network that allows advertisers and publishers to grow their business with fast, lightweight, contextual ads that don't track, collect, or store user data*
-  * This ad network seems like it was written by regular software developers with good intentions, and written for the modern world. Consider removing ContextCue from your ad blocker globally.
-  * ContextCue allows me to pick a variety of ad topics. I will pick ads topics according to the article I'm writing, so you may see e.g. finance or computer related topics. **This is not you being tracked, this is me curating advertisements according to what I'm writing**.
+None. I am not currently running any ads on my site.
 
 ### Former Ad Networks
 
 If you are viewing cached or old versions of webpages, you may see some of these embeds, which I no longer use.
 
+* **[ContextCue](https://contextcue.com)** - *ContextCue is a privacy-focused advertising network that allows advertisers and publishers to grow their business with fast, lightweight, contextual ads that don't track, collect, or store user data*
+  * This ad network seems like it was written by regular software developers with good intentions, and written for the modern world. Consider removing ContextCue from your ad blocker globally.
+  * ContextCue allows me to pick a variety of ad topics. I will pick ads topics according to the article I'm writing, so you may see e.g. finance or computer related topics. **This is not you being tracked, this is me curating advertisements according to what I'm writing**.
 * **[AdEx](https://www.adex.network/)** - *A display ad network for reduced ad fraud and increased user privacy.*
   * This site uses the [DAI stablecoin cryptocurrency](https://en.wikipedia.org/wiki/Dai_(cryptocurrency)) for payment processing. As a result, you may see crypto-related advertising from time to time. Stay vigilant, and use best judgement when managing cryptocurrencies, as mistakes can get your funds taken away.
 
 ## Ways to support me directly
 
-If you have an ad blocker turned on, and absolutely don't want to turn it off, I understand. I don't make much money from the ads anyways, since I personally block them and I don't really like them.
+Ads are lame, so I removed them from my website. Tipping me directly is much better. Every person who sends me a tip will get a place on my [Supporters](/supporters) page - but only if it's OK with you.
 
 Here are some ways to send me a tip:
 
-### GitHub Sponsors
+### GitHub Sponsors 💖
 
-{{< rawhtml >}}
-<iframe src="https://github.com/sponsors/charles-m-knox/card" title="Sponsor charles-m-knox" height="150" width="600" style="border: 0; min-width: 100%;"></iframe>
-{{< /rawhtml >}}
+You can sponsor me on GitHub here: https://github.com/sponsors/charles-m-knox
 
 ### Buy me a coffee! 🥑
 
 * **[Buy me a ~~Coffee~~ healthy avocado! 🥑 ](https://www.buymeacoffee.com/charles.m.knox)** I can't drink much coffee, but I do need to eat healthy, and avocados are expensive! 🙂
 
-### OpenCollective
-
-You can see my [OpenCollective profile here](https://opencollective.com/charles-m-knox). As of writing this (3/15/2021), I do not have any repositories with >100 GitHub stars, so I cannot host any repositories there. As soon as I do, I'll add them to OpenCollective, and people can make contributions.
-
-### Tip via crypto currencies
+### Tip via crypto currencies 💰️
 
 * **[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)**: `3NczPNsQ5FGJ27qZwiAkBZfWYfPV3uAMoK`
 * **[Bitcoin Cash](https://en.wikipedia.org/wiki/Bitcoin_Cash)**: `1DU7e1TNumajgaZLTk8LYADBZUidKvpGKH`
@@ -139,3 +134,7 @@ Other cryptos: [Contact me and ask](#contact), I'm happy to oblige.
 ### Brave
 
 I participate in the Brave Rewards for Creators program. If you're using the [Brave browser](https://brave.com), you should see my site listed as verified.
+
+### OpenCollective
+
+You can see my [OpenCollective profile here](https://opencollective.com/charles-m-knox). As of writing this (3/15/2021), I do not have any repositories with >100 GitHub stars, so I cannot host any repositories there. As soon as I do, I'll add them to OpenCollective, and people can make contributions.

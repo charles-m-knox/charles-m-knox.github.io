@@ -25,8 +25,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Before switching to [Hugo](https://gohugo.io), I wrote my own full-stack website, and hosted it on AWS. The site was written in:
 
 * **Frontend**: Angular 9
@@ -54,8 +52,6 @@ Because the website is not statically generated and requires a live API, and I d
 *Click the image for a larger version (of a different article, on sleeping) that isn't cut off. This one is quite long.*
 
 [![Sleeping article screenshot, cut off at the bottom. Click to see a long screenshot of an article about napping.](images/sc-charlesmknox-blog_sleeping-article_short.jpg)](images/sc-charlesmknox-blog_napping-article_long.jpg)
-
-{{< cc-ad >}}
 
 ## Technical Discussion
 
@@ -166,4 +162,3 @@ Additionally, some of the techniques I used and implemented in the Angular front
 
 Thanks for reading!
 
-{{< cc-ad >}}

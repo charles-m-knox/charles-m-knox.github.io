@@ -37,8 +37,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Here's how to compress and decompress a string in Golang using the `gzip` library.
 
 ```go
@@ -80,4 +78,3 @@ func decompressString(str string) (string, error) {
 
 [Go Playground Link](https://play.golang.org/p/Y8FTW59ozIq)
 
-{{< cc-ad >}}

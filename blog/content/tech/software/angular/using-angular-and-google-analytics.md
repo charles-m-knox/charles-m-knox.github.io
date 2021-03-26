@@ -35,8 +35,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 By default, Angular does not work very well with Google Analytics. It will only announce a page-view event when refreshing the page. This makes the router in Angular somewhat useless.
 
 Luckily, there is an npm package called [`angular-gtag`](https://github.com/codediodeio/angular-gtag) that hooks into the root app component of your Angular project and sends views upon router navigation.
@@ -115,4 +113,3 @@ Credit for some of these methods goes to a few users in this [GitHub issue threa
 
 Build your site and validate that it works using Google Analytics' realtime interface.
 
-{{< cc-ad >}}

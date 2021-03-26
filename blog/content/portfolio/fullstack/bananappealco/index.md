@@ -39,7 +39,6 @@ You can view the page here: [bananappeal.co](https://bananappeal.co)
 </video>
 {{< /rawhtml >}}
 
-
 ## Performance/Accessibility/Best Practices/SEO
 
 Using [Lighthouse](https://web.dev), the website meets almost 100% across every web-based metric:

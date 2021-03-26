@@ -8,7 +8,6 @@ theme: PaperMod
 enableemoji: true
 cleandestinationdir: true
 
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

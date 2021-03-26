@@ -25,8 +25,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 {{< rawhtml >}}
 <img align="right" src="https://github.com/charles-m-knox/firefox-containers-helper/raw/main/src/icons/icon_cube.png">
 {{< /rawhtml >}}
@@ -233,4 +231,3 @@ If you have suggestions, please feel free to voice them on GitHub. Thank you for
 
 The addon comes packaged with Bootstrap, and includes a distribution of it in its source code. See the license [here](https://github.com/twbs/bootstrap/blob/main/LICENSE).
 
-{{< cc-ad >}}

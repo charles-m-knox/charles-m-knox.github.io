@@ -38,8 +38,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
 
 The following Bash script is a cronjob directory backup script that takes two arguments:
@@ -78,8 +76,6 @@ It can be used like this:
 ./backup_script.sh /path/to/backup /target/location
 ```
 
-{{< cc-ad >}}
-
 ## Cronjob: Automated backups
 
 It can also be used as a cronjob. To edit your crontab, use the command:
@@ -104,4 +100,3 @@ For help with crontab job intervals, use the handy website [crontab.guru](https:
 
 This can be used on Ubuntu, Linux Mint, Arch Linux, or any other Linux OS/environment that supports running bash and shell scripts natively.
 
-{{< cc-ad >}}

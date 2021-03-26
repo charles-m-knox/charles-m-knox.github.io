@@ -32,8 +32,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 The following are my notes from the TED Talks Daily podcast, [Why sleep matters now more than ever | Matt Walker](https://open.spotify.com/episode/1jPMGB4vggny21di8nOnVz?si=2bShtVfzRSyND6-mTRUxhg).
 
 Matt Walker has an impressive set of credentials related to sleep science. View his website at [sleepdiplomat.com](https://www.sleepdiplomat.com/).
@@ -80,8 +78,6 @@ Additionally, when sleep loss occurs, the preference for food groups shifts: You
   * Sleeping is a bit more like _landing a plane_ than an _on/off switch_.
 * Consider removing all visible clocks from your room. Knowing the time does not help with managing stress when you're failing to fall asleep.
 
-{{< cc-ad >}}
-
 ## Devices Before Bed
 
 We've probably all heard this, but using social media on your devices within a reasonable amount of time before bed and after waking up causes spikes in stress. Avoid checking notifications and social media for a minimum of 5 minutes before and after bed for starters - the longer you can avoid it, the better.
@@ -108,5 +104,3 @@ From me, not Matt Walker:
 * Reduce sources of anxiety and blue light when it comes time to sleep.
 * Consistent sleep cycles are critical, regardless of how late you go to bed.
 * Sleep promotes weight management, immune response, and problem solving skills.
-
-{{< cc-ad >}}

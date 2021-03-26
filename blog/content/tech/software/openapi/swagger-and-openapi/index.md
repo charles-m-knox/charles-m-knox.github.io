@@ -38,8 +38,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Swagger is a framework to enable arbitrary implementations of the OpenAPI specification.
 
 ## Why?
@@ -212,8 +210,6 @@ The result is now:
       items:
         type: "string"
 ```
-
-{{< cc-head >}}
 
 ## Completing the Article Schema
 
@@ -425,8 +421,6 @@ components:
         $ref: '#/components/schemas/Article'
 ```
 
-{{< cc-ad >}}
-
 ## Generate Server & Documentation
 
 Click "Generate Server" at the top and choose a server to run, such as `go-server` or `nodejs-server`. Since the beginning of this guide uses Node, the `nodejs-server` will be chosen.
@@ -510,4 +504,3 @@ Stay healthy!
 
 Chuck
 
-{{< cc-ad >}}

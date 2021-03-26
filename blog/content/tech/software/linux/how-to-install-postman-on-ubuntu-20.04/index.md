@@ -39,8 +39,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Installing Postman with Canonical's [Snap](https://snapcraft.io/) does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
 
 ## Installation
@@ -96,4 +94,3 @@ rm postman.tar.gz
 
 That's it! Check your Ubuntu _Activities_ menu (top left corner) to verify that Postman shows up. The first time I opened the Activities menu, it did not show the entry, so I opened it one more time and it showed up the second time. I'll assume it just hadn't built an index of all available applications on the first try.
 
-{{< cc-ad >}}

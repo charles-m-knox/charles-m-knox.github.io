@@ -37,8 +37,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 The following Go code snippet will convert a string from this:
 
 ```
@@ -145,4 +143,3 @@ func TestGetTitleURLFromString(t *testing.T) {
 
 Additionally, [regex101.com](https://regex101.com) is a great resource for interactively testing regular expressions, and it includes a Golang (plus other languages) source code generator to make this process easy.
 
-{{< cc-ad >}}

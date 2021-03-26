@@ -39,8 +39,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 It's April 24, 2020. Ubuntu 20.04 _just_ came out. Installing Docker via the method I typically use via [get.docker.com](https://get.docker.com) does not seem to work. Additionally, the [Docker website](https://docs.docker.com/engine/install/ubuntu/) doesn't seem to have install instructions for Ubuntu 20.04 yet. [Snap](https://snapcraft.io/) installations are recommended by Canonical, but from past experience with the Docker Snap, I prefer to stick to a native method of installation.
 
 *If you don't have Ubuntu 20.04 yet, it was released on April 23, 2020. [Go get it here](https://ubuntu.com/download)!*
@@ -105,8 +103,6 @@ Verify by running:
 sudo docker-compose version
 ```
 
-{{< cc-ad >}}
-
 ## `apt update` broken - fix
 
 As of 5/15/2020, Docker has released a formal `focal` release. Previously, there were only `eoan` packages available, which caused `sudo apt update` to break, and required extra steps to fix it, outlined in the collapsed section below. In order to verify a successful Docker installation, update your package index now:
@@ -161,4 +157,3 @@ sudo apt update
 
 All set! You should now be able to run Docker containers, as well as orchestrate services with Docker compose files.
 
-{{< cc-ad >}}

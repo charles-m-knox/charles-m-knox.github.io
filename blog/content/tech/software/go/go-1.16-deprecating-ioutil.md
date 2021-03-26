@@ -34,8 +34,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< cc-head >}}
-
 Go 1.16 was released - [here are the release notes](https://golang.org/doc/go1.16).
 
 The thing that caught my eye was that `io/ioutil` has been deprecated - here's what you need to know
@@ -51,4 +49,3 @@ The thing that caught my eye was that `io/ioutil` has been deprecated - here's w
 * `TempFile` => `os.CreateTemp`
 * `WriteFile` => `os.WriteFile`
 
-{{< cc-ad >}}
