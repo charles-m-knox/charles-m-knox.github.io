@@ -6,7 +6,17 @@
     <description>Recent content on Charles M. Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Septaday</title>
+      <link>https://charlesmknox.com/apps/septaday/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/apps/septaday/</guid>
+      <description>Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
+About me To try and provide some credibility about myself&amp;hellip; I am an Ironman triathlete, professional software and app developer, electronic musician, and some other things - but most importantly, I try to live a balanced life.</description>
+    </item>
+    
     <item>
       <title>BananAppeal.co: Small Business Landing Page</title>
       <link>https://charlesmknox.com/portfolio/fullstack/bananappealco/</link>
@@ -170,7 +180,7 @@ import ( &amp;#34;math&amp;#34; &amp;#34;regexp&amp;#34; &amp;#34;strings&amp;#3
       
       <guid>https://charlesmknox.com/tech/software/go/string-compression/</guid>
       <description>Here&amp;rsquo;s how to compress and decompress a string in Golang using the gzip library.
-package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;bytes&amp;#34; &amp;#34;io/ioutil&amp;#34; ) // Credit where credit is due! // https://stackoverflow.com/a/19267224 func compressString(str string) (string, error) { var b bytes.Buffer gz := gzip.NewWriter(&amp;amp;b) if _, err := gz.Write([]byte(str)); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } if err := gz.Close(); err != nil { fmt.</description>
+package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;bytes&amp;#34; &amp;#34;io/ioutil&amp;#34; ) // Credit where credit is due! // https://stackoverflow.com/a/19267224 func compressString(str string) (string, error) { var b bytes.Buffer gz := gzip.NewWriter(&amp;amp;b) if _, err := gz.Write([]byte(str)); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } if err := gz.Close(); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string closure failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } return string(b.</description>
     </item>
     
     <item>
@@ -237,9 +247,8 @@ Swagger lets you:
       <pubDate>Fri, 17 Apr 2020 13:31:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/email-regexp/</guid>
-      <description> It was a bit annoying, but the regular expression on this site almost worked out of the box. I had to add in a few line breaks:
-package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var emailRegEx = regexp.MustCompile( `^(?:[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+(?:\.[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+)*|&amp;#34;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&amp;#34;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])`) func verifyEmail(email string) bool { if (emailRegEx.MatchString(email) == true) { return true } return false } func main() { fmt.Println(verifyEmail(&amp;#34;some.user@gmail.com&amp;#34;)) } Go Playground link: https://play.golang.org/p/Gq67bAJeK2r
-  </description>
+      <description>It was a bit annoying, but the regular expression on this site almost worked out of the box. I had to add in a few line breaks:
+package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var emailRegEx = regexp.MustCompile( `^(?:[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+(?:\.[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+)*|&amp;#34;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&amp;#34;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])`) func verifyEmail(email string) bool { if (emailRegEx.MatchString(email) == true) { return true } return false } func main() { fmt.Println(verifyEmail(&amp;#34;some.user@gmail.com&amp;#34;)) } Go Playground link: https://play.golang.org/p/Gq67bAJeK2r</description>
     </item>
     
     <item>

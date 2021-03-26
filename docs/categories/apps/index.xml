@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Charles M. Knox</title>
+    <link>https://charlesmknox.com/categories/apps/</link>
+    <description>Recent content in Apps on Charles M. Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://charlesmknox.com/categories/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Septaday</title>
+      <link>https://charlesmknox.com/apps/septaday/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/apps/septaday/</guid>
+      <description>Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
+About me To try and provide some credibility about myself&amp;hellip; I am an Ironman triathlete, professional software and app developer, electronic musician, and some other things - but most importantly, I try to live a balanced life.</description>
+    </item>
+    
+  </channel>
+</rss>
