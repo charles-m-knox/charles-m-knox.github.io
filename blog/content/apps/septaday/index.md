@@ -27,14 +27,14 @@ cover:
 ---
 
 {{< rawhtml >}}
-<img align="right" src="images/TechLife21.png">
+<img align="right" src="images/TechLife21_1024.png" style="max-width: 25%;" width="128" height="128">
 {{< /rawhtml >}}
 
 Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
 
 ## About me
 
-To try and provide some credibility about myself... I am an [Ironman triathlete](https://www.ironman.com/), [professional software and app developer](https://resume.charlesmknox.com), [electronic musician](https://aperspection.com), and some other things - but most importantly, I try to live a balanced life.
+To try and provide some credibility to myself... I am an [Ironman triathlete](https://www.ironman.com/), [professional software and app developer](https://resume.charlesmknox.com), [electronic musician](https://aperspection.com), and some other things - but most importantly, I try to live a balanced life.
 
 If there's one thing I've learned so far, it's that life is mostly a matter of accomplishing routine tasks that will benefit us later, and whatever time remains is for you to fill with what makes you happy.
 

@@ -45,17 +45,17 @@ params:
     tocopen: false
 
     assets:
-        favicon: "/TechLife23.png"
-        favicon16x16: "/TechLife23.png"
-        favicon32x32: "/TechLife23.png"
-        safari_pinned_tab: "/TechLife23.png"
-        apple_touch_icon: "/TechLife23.png"
+        favicon: "/TechLife23_centered-position-14x2_no-bg-shadow.png"
+        favicon16x16: "/TechLife23_centered-position-14x2_no-bg-shadow.png"
+        favicon32x32: "/TechLife23_centered-position-14x2_no-bg-shadow.png"
+        safari_pinned_tab: "/TechLife23_centered-position-14x2_no-bg-shadow.png"
+        apple_touch_icon: "/TechLife23_centered-position-14x2_no-bg-shadow.png"
     #     disableHLJS: false # to disable highlight.js
     #     disableFingerprinting: false
 
     label:
         text: "Charles M. Knox"
-        icon: /TechLife23.png
+        icon: /TechLife23_centered-position-14x2_full-bg-shadow.png
         iconHeight: 35
 
     # profile-mode
@@ -63,17 +63,19 @@ params:
         enabled: true # needs to be explicitly set
         title: Welcome
         subtitle:
-        imageUrl: "TechLife23.png"
+        imageUrl: "TechLife23_centered-position-14x2_full-bg-shadow.png"
         imageWidth: 220
         imageHeight: 220
         imageTitle: Charles M. Knox - Avatar
         buttons:
             - name: Resume
               url: https://resume.charlesmknox.com
-            - name: Blog
+            - name: Content
               url: categories
             - name: Music
               url: https://aperspection.com
+            # - name: Apps
+            #   url: /apps
 
     # home-info mode
     homeInfoParams:
@@ -85,10 +87,6 @@ params:
 
           I occasionally enjoy writing about techie-focused topics, as well as
           things I learn as I pursue of a life of healthy living.
-
-          Occasionally, I'll try and post some privacy-respecting ads or
-          affiliate links for products or groups that I care about. I will never
-          plug a company or corporate entity on this site that isn't worthy.
 
     socialIcons:
         - name: github
