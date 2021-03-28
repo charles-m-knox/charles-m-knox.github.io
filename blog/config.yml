@@ -74,8 +74,8 @@ params:
               url: categories
             - name: Music
               url: https://aperspection.com
-            # - name: Apps
-            #   url: /apps
+            - name: Apps
+              url: /apps
 
     # home-info mode
     homeInfoParams:

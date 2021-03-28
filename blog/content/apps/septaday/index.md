@@ -32,6 +32,8 @@ cover:
 
 Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
 
+[View it on the App Store here](https://apps.apple.com/us/app/septaday/id1559559473).
+
 ## About me
 
 To try and provide some credibility to myself... I am an [Ironman triathlete](https://www.ironman.com/), [professional software and app developer](https://resume.charlesmknox.com), [electronic musician](https://aperspection.com), and some other things - but most importantly, I try to live a balanced life.
@@ -200,7 +202,7 @@ https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/j.2044-8287.2012.020
 
 {{< figure src="images/bjhp2086-fig-0001-m.jpg" title="This is 'Figure 1' taken from the above scientific article." link="https://bpspsychub.onlinelibrary.wiley.com/cms/asset/e1620aa5-bd00-4ac8-be1c-311dd5b1a374/bjhp2086-fig-0001-m.jpg" >}}
 
-From a habit-forming standpoint, I personally find it most beneficial to keep Listerine Reach Mint flossers nearby my desk, so that by the time the evening rolls around and I'm on the computer, I can just reach over and start flossing. I also keep a Reach floss package in my car at all times so that if I am on the go, I can floss - use care while driving always 🙂. Another habit-forming recommendation is to combine flossing with [walking](#️-disconnect); bring your flosser with you while you walk!
+From a habit-forming standpoint, I personally find it most beneficial to keep Listerine Reach Mint flossers nearby my desk, so that by the time the evening rolls around and I'm on the computer, I can just reach over and start flossing. I also keep a Reach floss package in my car at all times so that if I am on the go, I can floss - use care while driving always 🙂. Another habit-forming recommendation is to combine flossing with [walking](#-disconnect); bring your flosser with you while you walk!
 
 ### 🪥 Brushing your teeth
 
@@ -279,7 +281,7 @@ Good luck!
 
 > Walking outside produced the most novel and highest quality analogies. The effects of outdoor stimulation and walking were separable. Walking opens up the free flow of ideas, and it is a simple and robust solution to the goals of increasing creativity and increasing physical activity.
 
-Additionally, I [wrote an article summarizing different brain modes](/health/general/learning-how-to-learn/); going for a walk triggers the "diffuse" mode of thinking.
+Additionally, I [wrote an article summarizing different brain modes](/health/general/learning-how-to-learn/#brain-modes); going for a walk triggers the "diffuse" mode of thinking.
 
 ## ☑️ Hour of Focus
 
