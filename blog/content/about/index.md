@@ -25,32 +25,50 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-My name is Charles Knox. I am a professional software developer,
-and have nearly a decade of industry software development and
-information technology experience.
+## About me
 
-I write software that I hope people will use. I am always working on solutions that will make your life easier.
+My name is Charles Knox. I am a professional software developer, and have nearly a decade of industry software development and information technology experience. You can see my professional work history [here, at resume.charlesmknox.com](https://resume.charlesmknox.com).
 
-I enjoy writing about techie-focused topics, as well as
-things I learn as I pursue of a life of healthy living.
+### Software
 
-Occasionally, I'll try and post some privacy-respecting ads or
-affiliate links for products or groups that I care about. I will never
-plug a company or corporate entity on this site that isn't worthy.
+I write software that I hope people will use. I am always working on solutions that will make your life easier. You can see my [portfolio here](/portfolio/), as well as my [apps here](/apps/), and my [GitHub here](https://github.com/charles-m-knox).
 
-If you see an advertisement that looks suspicious, please [email me](#contact) and I'll investigate.
+### Blogging
+
+I enjoy writing about [techie-focused topics](/categories/software/), as well as things I learn as I pursue of a [life of healthy living](/categories/health/).
+
+### Physics degree
+
+I also hold a degree in Physics, which I believe is one of the most fascinating areas of study, as well as the most difficult - I often find myself acknowledging that spending years on school to get a Physics degree will only teach you how much you *don't* know.
+
+### Ironman triathlete
+
+I'm an [Ironman triathlon](https://ironman.com) finisher and marathon runner. I love staying in shape and I orient my life around eating healthy and maintaining an active lifestyle and healthy diet.
+
+### Musician
+
+I also write music under the alias [Aperspection](https://aperspection.com), mainly electronic music. I've been doing this since 2010 and have several albums/releases on [Spotify](https://open.spotify.com/artist/7pFEaNLFMkGw8VTCDgSlbo?si=BsOZ4w8mT_u1AiQlqjz_Pw), [Apple Music](https://music.apple.com/us/artist/aperspection/689555703), [YouTube](https://www.youtube.com/channel/UCRKYPX7s7pKqzHFBQxrb_AQ), and other platforms.
 
 ## Blog
 
-This blog's source code is publicly viewable and contained [here on GitHub](https://github.com/charles-m-knox/charles-m-knox.github.io).
+This blog's source code is publicly viewable and contained [here on GitHub](https://github.com/charles-m-knox/charles-m-knox.github.io). I use [Hugo](https://gohugo.io) to quickly write articles.
 
 ## Contact
 
-[📧 Contact me via email](mailto:579af7a8-9a71-4570-a0b2-9e5ae46346a7@aleeas.com), this is the preferred method. I use a mail forwarding service for all of my public-facing email links - when you send this to me, it will go directly to my inbox.
+I will respond fairly quickly to any messages on these platforms.
+
+* [GitHub](https://github.com/charles-m-knox)
+* [LinkedIn](https://www.linkedin.com/in/charlesmknox)
+* [Reddit](https://reddit.com/u/charles-m-knox)
+* [Twitter](https://twitter.com/charlesmknox)
+* [Discord](https://discord.com/users/257521223385219073)
+* [Telegram](https://t.me/charlesmknox)
+* [📧 Contact me via email](mailto:579af7a8-9a71-4570-a0b2-9e5ae46346a7@aleeas.com)
+  * I use a mail forwarding service for all of my public-facing email links - when you send this to me, it will go directly to my inbox.
 
 ### Other social platforms
 
-For social outlets that are not on the [front page](https://charlesmknox.com):
+For social outlets that are not on the [front page](/):
 
 * https://gitlab.com/charles-m-knox
 * https://stackoverflow.com/users/3798673/charles-m-knox
@@ -60,7 +78,7 @@ For social outlets that are not on the [front page](https://charlesmknox.com):
 
 ### Discord server
 
-I also have recently created a Discord server where you can connect with me. You can join here:
+I also have recently created a Discord server where you can connect with me. Currently it's more of a sandbox than a populated server - you can join here:
 
 https://discord.gg/94sX5ex3Ht
 
@@ -96,7 +114,6 @@ As of writing this article on 2/28/2021, I am not currently promoting anything b
 ## List of current ad networks
 
 None. I am not currently running any ads on my site.
-
 ### Former Ad Networks
 
 If you are viewing cached or old versions of webpages, you may see some of these embeds, which I no longer use.
