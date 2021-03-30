@@ -62,5 +62,15 @@ As a privacy enthusiast, I often find myself configuring my browser to match my 
  Frontend: Angular 9 Middleware/web server: Go 1.13 Data: Static markdown files  Screenshots Because the website is not statically generated and requires a live API, and I do not want to continue to provide uptime for the API, I&amp;rsquo;ll be providing a few screen captures of the site in action.</description>
     </item>
     
+    <item>
+      <title>Light Sites</title>
+      <link>https://charlesmknox.com/portfolio/fullstack/light-sites/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/portfolio/fullstack/light-sites/</guid>
+      <description>Light Sites is a Go-powered, no-JavaScript, template-friendly, lightweight markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration.
+About the project This was written as a coding project. I wanted to create a minimalistic server to parse markdown files and manipulate them according to some essential customizations. It&amp;rsquo;s more of reference code than an actual production-ready solution. For the purposes of a proper website deployment, I recommend Hugo.</description>
+    </item>
+    
   </channel>
 </rss>

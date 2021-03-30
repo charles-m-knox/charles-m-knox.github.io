@@ -116,6 +116,16 @@ The thing that caught my eye was that io/ioutil has been deprecated - here&amp;r
     </item>
     
     <item>
+      <title>Light Sites</title>
+      <link>https://charlesmknox.com/portfolio/fullstack/light-sites/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/portfolio/fullstack/light-sites/</guid>
+      <description>Light Sites is a Go-powered, no-JavaScript, template-friendly, lightweight markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration.
+About the project This was written as a coding project. I wanted to create a minimalistic server to parse markdown files and manipulate them according to some essential customizations. It&amp;rsquo;s more of reference code than an actual production-ready solution. For the purposes of a proper website deployment, I recommend Hugo.</description>
+    </item>
+    
+    <item>
       <title>Learning How to Learn</title>
       <link>https://charlesmknox.com/health/general/learning-how-to-learn/</link>
       <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
