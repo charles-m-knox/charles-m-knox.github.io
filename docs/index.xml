@@ -62,6 +62,16 @@ So, he had the brilliant idea to use some clever Python to automatically check t
     </item>
     
     <item>
+      <title>Investing tools: jsinvest and goinvest</title>
+      <link>https://charlesmknox.com/portfolio/fullstack/invest/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlesmknox.com/portfolio/fullstack/invest/</guid>
+      <description>jsinvest and goinvest are two utilities I wrote that do the same thing: Help you balance your financial portfolio according to allocations that you can customize.
+About the project This was written as a coding project, but also to serve a practical purpose to my every day life. I want to be able to spend, say, $1000 on a spread of financial ETFs/stocks - for example, 50% large-cap, 50% small-cap, etc.</description>
+    </item>
+    
+    <item>
       <title>Firefox Browser Addon Web Extension: Containers Helper</title>
       <link>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
