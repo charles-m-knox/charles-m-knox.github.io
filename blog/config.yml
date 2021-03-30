@@ -103,6 +103,8 @@ params:
           url: "https://twitter.com/charlesmknox"
         - name: discord
           url: "https://discord.com/users/257521223385219073"
+        - name: telegram
+          url: "https://t.me/charlesmknox"
         # - name: stackoverflow
         #   url: "https://stackoverflow.com/users/3798673/charles-m-knox"
         # - name: dev
