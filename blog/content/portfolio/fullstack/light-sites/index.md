@@ -35,7 +35,61 @@ Go itself also [has templating capabilities built in](https://golang.org/pkg/htm
 
 Static website generators are preferred over a live API. I did not architect this program to statically generate content, but I should have. Instead, it acts as a live web server that will require occasional CPU cycles on whatever system you're running.
 
+## Example
 
+You can see a full example here: https://github.com/charles-m-knox/light-sites-example
+
+At this time, I don't provide a live version of the site because it [requires uptime](#about-the-project). The example screenshots below should be all you really need.
+
+### Deployment
+
+To deploy the example Light Sites repository, use a lean [Docker compose file](https://github.com/charles-m-knox/light-sites-example/blob/main/docker-compose.yml):
+
+```yaml
+version: "3"
+services:
+  light-sites-cmk-blog:
+    container_name: light-sites-cmk-blog
+    hostname: light-sites-cmk-blog
+    image: light-sites:latest
+    volumes:
+      - ./cmk-blog/src:/src
+      - ./cmk-blog/config.yml:/config.yml:ro
+    ports:
+      - "127.0.0.1:16841:16841"
+    restart: unless-stopped
+    user: "1000:1000"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200k"
+        max-file: "10"
+
+```
+
+### Screenshots
+
+Here are a couple screenshots from the example deployment.
+#### Landing page
+
+The landing page is a markdown document found here:
+
+https://github.com/charles-m-knox/light-sites-example/blob/main/cmk-blog/src/content/index.md
+
+[![Landing page](https://raw.githubusercontent.com/charles-m-knox/light-sites-example/main/screenshots/index.png)](https://github.com/charles-m-knox/light-sites-example/blob/main/cmk-blog/src/content/index.md)
+
+#### Blog post
+
+This blog post page is a markdown document found here:
+
+https://github.com/charles-m-knox/light-sites-example/blob/main/cmk-blog/src/content/ls/blog/software/bash/backup-a-folder-in-bash.md
+
+[![Blog post](https://raw.githubusercontent.com/charles-m-knox/light-sites-example/main/screenshots/blogpost.png)](https://github.com/charles-m-knox/light-sites-example/blob/main/cmk-blog/src/content/ls/blog/software/bash/backup-a-folder-in-bash.md)
+
+
+## Further reading
+
+The remainder of this blog post is essentially a copy-paste of the documentation from the readme at [Light Sites GitHub repo README.md file](https://github.com/charles-m-knox/light-sites).
 
 ## About
 
@@ -56,7 +110,7 @@ Code unit test coverage is currently at 96.7% (for packages with code worth test
 
 ## Usage
 
-Simply create an `index.md` file in `./src/content`. The only requirement is that the markdown document requires the [`<attributes>`](#attributes-tag-required) tag to be defined with a `title="Home"` attribute (change as desired). Everything else can be normal markdown.
+Simply create an `index.md` file in [`./src/content`](https://github.com/charles-m-knox/light-sites/tree/main/src/content). The only requirement is that the markdown document requires the [`<attributes>`](#attributes-tag-required) tag to be defined with a `title="Home"` attribute (change as desired). Everything else can be normal markdown.
 
 Continue to the [deployment](#deployment) steps next.
 
@@ -76,13 +130,13 @@ make run   # make gorun, if using Go
 
 Finally, navigate to `http://localhost:8099/index.html` to view `src/content/index.md` in its rendered form.
 
-> *Note: If you change the configured `listenAddr` in `config.yml`, or want to change the port mapping in the `docker run` command, please update the Makefile accordingly.
+> *Note: If you change the configured `listenAddr` in [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml), or want to change the port mapping in the `docker run` command, please update the Makefile accordingly.
 
 To add new documents, ensure that the [`<attributes title="Hello World!"></attributes>`](#attributes-tag-required) tag is placed preferably at the top of your Markdown document.
 
 ## Configuration
 
-Edit `config.yml` to meet your needs.
+Edit [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml) to meet your needs.
 
 ## Special Tags/Behavior
 
@@ -92,7 +146,7 @@ There are a few custom HTML tags that are processed by the Light Sites rendering
 
 #### Route Prefix, and `index.html`
 
-If navigating to the root URL, i.e. `http://localhost:8099/`, Light Sites will act as if the user navigated to `http://localhost:8099/index.html` (the `.html` suffix will change depending on `config.yml`). If, in `config.yml`, `routing.routePrefix` is set to `/content/`, for example, then navigating to `http://localhost:8099/content/` will yield the same result, but `http://localhost:8099/` will yield `404`.
+If navigating to the root URL, i.e. `http://localhost:8099/`, Light Sites will act as if the user navigated to `http://localhost:8099/index.html` (the `.html` suffix will change depending on [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml)). If, in [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml), `routing.routePrefix` is set to `/content/`, for example, then navigating to `http://localhost:8099/content/` will yield the same result, but `http://localhost:8099/` will yield `404`.
 
 #### Auto-refresh
 
@@ -114,7 +168,7 @@ The `<attributes>` tag must be placed in the first line of the document. Current
 
 Use the `<directory>` tag to render links to all documents in the `src/content` directory as a `<ul><li>...</li></ul>` tree. To hide a document, prefix it with a `.`, such as `src/content/.page2.md`. To visit a hidden page, visit `http://localhost:8099/.page2.html`. Traversing folders is supported. *This behavior may change in the future.*
 
-To avoid issues and ensure smoothest functionality, ensure that your `config.yml` specifies `directories.documents` as `src/content` for example, and NOT as `./src/content`.
+To avoid issues and ensure smoothest functionality, ensure that your [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml) specifies `directories.documents` as `src/content` for example, and NOT as `./src/content`.
 
 #### `template` Tag
 
@@ -191,7 +245,7 @@ It is worth noting that the markdown-to-HTML engine automatically produces a `<b
 
 #### `head` Tag
 
-When encountered, the `<head>` tag is given a standard Bootstrap CSS import, using `<link href="/assets/bootstrap.min.css>` with a few other attributes. Additionally, it imports `/assets/custom.css` the same way. These are configurable in the `config.yml`.
+When encountered, the `<head>` tag is given a standard Bootstrap CSS import, using `<link href="/assets/bootstrap.min.css>` with a few other attributes. Additionally, it imports `/assets/custom.css` the same way. These are configurable in the [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml).
 
 #### `table` Tag
 
@@ -199,12 +253,12 @@ When encountered, the `<head>` tag is given a standard Bootstrap CSS import, usi
 
 #### `img` Tag
 
-All `<img>` tags should be given a `max-width` of 100%, as shown in the default `config.yml`. This is to prevent occasional issues where the image may not respect the width of the parent container(s).
+All `<img>` tags should be given a `max-width` of 100%, as shown in the default [`config.yml`](https://github.com/charles-m-knox/light-sites/blob/main/config.yml). This is to prevent occasional issues where the image may not respect the width of the parent container(s).
 
-### Source code
+## Source code
 
 View the source code [here on GitHub](https://github.com/charles-m-knox/light-sites).
 
-### Final note
+## Final note
 
 Thanks for reading!
