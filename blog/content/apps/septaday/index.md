@@ -6,8 +6,10 @@ date: 2021-03-26T00:00:00Z
 tags:
   - apps
   - septaday
+  - portfolio
 categories:
   - Apps
+  - Portfolio
 author: "Charles M. Knox"
 showToc: true
 TocOpen: true
