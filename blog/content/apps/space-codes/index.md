@@ -34,6 +34,8 @@ cover:
 
 Space Codes is an app that plays custom, curated focus music to help you focus. It's a simple app that has a few hours of songs I wrote myself, specifically to help people tune out the noise of every day life and fill their minds with simple, moving sounds.
 
+Space Codes is under review in the app store right now, as of 3/30/2021 - I'll post the link here soon.
+
 <!-- [View it on the App Store here](https://apps.apple.com/us/app/septaday/id1559559473). -->
 
 ## 👨‍🚀 About me
