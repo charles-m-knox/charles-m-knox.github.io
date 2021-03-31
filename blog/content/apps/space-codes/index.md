@@ -29,12 +29,14 @@ cover:
 ---
 
 {{< rawhtml >}}
-<img align="right" src="images/icon.png" style="max-width: 25%;" width="128" height="128">
+<img align="right" src="images/icon.png" style="max-width: 25%; border-radius: 10px;" width="128" height="128">
 {{< /rawhtml >}}
 
 Space Codes is an app that plays custom, curated focus music to help you focus. It's a simple app that has a few hours of songs I wrote myself, specifically to help people tune out the noise of every day life and fill their minds with simple, moving sounds.
 
 Space Codes is under review in the app store right now, as of 3/30/2021 - I'll post the link here soon.
+
+Update 3/31: Apple has rejected the app from the app store, citing it doesn't meet the minimum functionality requirements for an app. This means that it doesn't offer enough content for an app. I'll revisit this app in the future, but for now, you can hear the songs themselves here: https://aperspection.com/post/space-codes/
 
 <!-- [View it on the App Store here](https://apps.apple.com/us/app/septaday/id1559559473). -->
 
@@ -42,11 +44,17 @@ Space Codes is under review in the app store right now, as of 3/30/2021 - I'll p
 
 I am an app developer and electronic musician. You can listen to my music by visiting [aperspection.com](https://aperspection.com), and you can see my [apps here](/apps/). I write other software too, you can see some [portfolio items here](/categories/portfolio/), my [GitHub profile here](https://github.com/charles-m-knox), and [my resume here](https://resume.charlesmknox.com/).
 
+## Screenshots
+
+Since the app won't be landing on the app store for the forseeable future, here is a screenshot.
+
+![Space Codes iOS screenshot](images/screenshot.jpg)
+
 ## 🎵 The music
 
 Currently, Space Codes has three songs, 1 hour each. The songs are repetitive with slight variations over time, with varying synths and sound effects coming in and out of focus.
 
-I do plan on pushing the music to Spotify, Apple Music, and other major stores. This will be happening at some point in the near future.
+The music itself is available on major platforms, as seen here: https://aperspection.com/post/space-codes/
 
 ## 👍️ No streaming - the music comes with the app
 
