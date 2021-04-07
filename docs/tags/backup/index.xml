@@ -13,11 +13,7 @@
       <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/bash/backup-a-folder-in-bash/</guid>
-      <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
-The following Bash script is a cronjob directory backup script that takes two arguments:
- the folder to backup the output directory  It will also automatically clean up any backups that are more than 3 weeks old.
-See below.
-The backup script #!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; .tar.gz) tgtpath=$(dirname &amp;#34;${2}&amp;#34;) output=&amp;#34;${tgtpath}/${outputtargz}__$(date +%m-%d-%y_%H-%M).</description>
+      <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.</description>
     </item>
     
   </channel>

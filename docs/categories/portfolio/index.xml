@@ -13,8 +13,7 @@
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/apps/space-codes/</guid>
-      <description>Space Codes is an app that plays custom, curated focus music to help you focus. It&amp;rsquo;s a simple app that has a few hours of songs I wrote myself, specifically to help people tune out the noise of every day life and fill their minds with simple, moving sounds.
-Space Codes is under review in the app store right now, as of 3/30/2021 - I&amp;rsquo;ll post the link here soon.</description>
+      <description>This page contains information about the Space Codes app.</description>
     </item>
     
     <item>
@@ -23,9 +22,7 @@ Space Codes is under review in the app store right now, as of 3/30/2021 - I&amp;
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/apps/septaday/</guid>
-      <description>Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
-View it on the App Store here.
-About me To try and provide some credibility to myself&amp;hellip; I am an Ironman triathlete, professional software and app developer, electronic musician, and some other things - but most importantly, I try to live a balanced life.</description>
+      <description>This page contains information about the Septaday app.</description>
     </item>
     
     <item>
@@ -34,10 +31,7 @@ About me To try and provide some credibility to myself&amp;hellip; I am an Ironm
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/bananappealco/</guid>
-      <description>A booming, Etsy-based online retailer called BananAppeal.co was in need of a landing page, and I wanted to help them out. So, in less than one day, I assembled a simple (but very sleek) landing page for their business.
-You can view the page here: bananappeal.co
-Video Sorry, your browser doesn&#39;t support embedded videos.  Performance/Accessibility/Best Practices/SEO Using Lighthouse, the website meets almost 100% across every web-based metric:
-The only metric it falls behind on is the recommendation to serve next-gen images instead of the more universally compatible jpg/png images.</description>
+      <description>Portfolio item: A beautiful landing page for a small Etsy-based business called BananAppeal.co.</description>
     </item>
     
     <item>
@@ -46,8 +40,7 @@ The only metric it falls behind on is the recommendation to serve next-gen image
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/invest/</guid>
-      <description>jsinvest and goinvest are two utilities I wrote that do the same thing: Help you balance your financial portfolio according to allocations that you can customize.
-About the project This was written as a coding project, but also to serve a practical purpose to my every day life. I want to be able to spend, say, $1000 on a spread of financial ETFs/stocks - for example, 50% large-cap, 50% small-cap, etc.</description>
+      <description>Portfolio item: jsinvest and goinvest - a web UI and Go program to help keep balance in your portfolio on a regular basis.</description>
     </item>
     
     <item>
@@ -56,10 +49,7 @@ About the project This was written as a coding project, but also to serve a prac
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</guid>
-      <description>Check out the extension View the extension here! You can also view the source code here on GitHub.
-The rest of this article is a writeup on the extension itself - enjoy!
-Preface Before talking about my addon directly, first I wanted to explain the context behind why it was created in the first place.
-As a privacy enthusiast, I often find myself configuring my browser to match my needs.</description>
+      <description>A 5-star-rated browser extension for Firefox that augments the official multi-account containers addon by adding bulk container interaction and management.</description>
     </item>
     
     <item>
@@ -68,8 +58,7 @@ As a privacy enthusiast, I often find myself configuring my browser to match my 
       <pubDate>Sun, 28 Feb 2021 15:15:50 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/blog-site/</guid>
-      <description>Before switching to Hugo, I wrote my own full-stack website, and hosted it on AWS. The site was written in:
- Frontend: Angular 9 Middleware/web server: Go 1.13 Data: Static markdown files  Screenshots Because the website is not statically generated and requires a live API, and I do not want to continue to provide uptime for the API, I&amp;rsquo;ll be providing a few screen captures of the site in action.</description>
+      <description>Portfolio item: My former personal blog, written in Angular, Go, and static markdown files. Screenshots below.</description>
     </item>
     
     <item>
@@ -78,8 +67,7 @@ As a privacy enthusiast, I often find myself configuring my browser to match my 
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/light-sites/</guid>
-      <description>Light Sites is a Go-powered, no-JavaScript, template-friendly, lightweight markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration.
-About the project This was written as a coding project. I wanted to create a minimalistic server to parse markdown files and manipulate them according to some essential customizations. It&amp;rsquo;s more of reference code than an actual production-ready solution. For the purposes of a proper website deployment, I recommend Hugo.</description>
+      <description>Portfolio item: Light Sites, a Go-powered, no-JavaScript, template-friendly, lightweight  markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration. </description>
     </item>
     
   </channel>

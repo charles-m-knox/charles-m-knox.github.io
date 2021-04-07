@@ -13,8 +13,7 @@
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/apps/space-codes/</guid>
-      <description>Space Codes is an app that plays custom, curated focus music to help you focus. It&amp;rsquo;s a simple app that has a few hours of songs I wrote myself, specifically to help people tune out the noise of every day life and fill their minds with simple, moving sounds.
-Space Codes is under review in the app store right now, as of 3/30/2021 - I&amp;rsquo;ll post the link here soon.</description>
+      <description>This page contains information about the Space Codes app.</description>
     </item>
     
     <item>
@@ -23,9 +22,7 @@ Space Codes is under review in the app store right now, as of 3/30/2021 - I&amp;
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/apps/septaday/</guid>
-      <description>Septaday is an app that helps you live a healthier, more successful life by providing you with 7 static, daily tasks. If you reached this page via the links in the app, you can scroll around on this page to read about why each task is worth doing, with scientific research to back up each claim.
-View it on the App Store here.
-About me To try and provide some credibility to myself&amp;hellip; I am an Ironman triathlete, professional software and app developer, electronic musician, and some other things - but most importantly, I try to live a balanced life.</description>
+      <description>This page contains information about the Septaday app.</description>
     </item>
     
     <item>
@@ -34,10 +31,7 @@ About me To try and provide some credibility to myself&amp;hellip; I am an Ironm
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/bananappealco/</guid>
-      <description>A booming, Etsy-based online retailer called BananAppeal.co was in need of a landing page, and I wanted to help them out. So, in less than one day, I assembled a simple (but very sleek) landing page for their business.
-You can view the page here: bananappeal.co
-Video Sorry, your browser doesn&#39;t support embedded videos.  Performance/Accessibility/Best Practices/SEO Using Lighthouse, the website meets almost 100% across every web-based metric:
-The only metric it falls behind on is the recommendation to serve next-gen images instead of the more universally compatible jpg/png images.</description>
+      <description>Portfolio item: A beautiful landing page for a small Etsy-based business called BananAppeal.co.</description>
     </item>
     
     <item>
@@ -46,9 +40,7 @@ The only metric it falls behind on is the recommendation to serve next-gen image
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/updates/firefox-containers-helper-v0.0.14/</guid>
-      <description>Firefox Containers Helper v0.0.14 is out now, as of 3/17/2021 - previously v0.0.10, released back in November 2020, a few awesome features have been added!
-Check out the extension View the extension here! You can also view the source code here on GitHub.
-Thank you to the community What makes this release of Firefox Containers Helper special is that it has received some awesome community engagement! I really never thought that it would gain enough attention or usage from people around the world for people to create GitHub issues, pull requests, and become supporters</description>
+      <description>Firefox Containers Helper v0.0.14 is out now, as of 3/17/2021.</description>
     </item>
     
     <item>
@@ -57,8 +49,7 @@ Thank you to the community What makes this release of Firefox Containers Helper 
       <pubDate>Sat, 13 Mar 2021 19:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/general/covid-vaccine-bot/</guid>
-      <description>💉 Introduction A friend of mine, Tynick, and I crossed paths on a project he started - he wanted to get a COVID vaccine by doing a volunteer shift. The two websites that offer volunteering signups occasionally had openings, but they were always taken almost immediately.
-So, he had the brilliant idea to use some clever Python to automatically check the website, and notify him with Slack or Twilio whenever there&amp;rsquo;s a signup available.</description>
+      <description>How we used automation to get ourselves COVID vaccines!</description>
     </item>
     
     <item>
@@ -67,8 +58,7 @@ So, he had the brilliant idea to use some clever Python to automatically check t
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/invest/</guid>
-      <description>jsinvest and goinvest are two utilities I wrote that do the same thing: Help you balance your financial portfolio according to allocations that you can customize.
-About the project This was written as a coding project, but also to serve a practical purpose to my every day life. I want to be able to spend, say, $1000 on a spread of financial ETFs/stocks - for example, 50% large-cap, 50% small-cap, etc.</description>
+      <description>Portfolio item: jsinvest and goinvest - a web UI and Go program to help keep balance in your portfolio on a regular basis.</description>
     </item>
     
     <item>
@@ -77,10 +67,7 @@ About the project This was written as a coding project, but also to serve a prac
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/webextensions/ffcontainershelper/</guid>
-      <description>Check out the extension View the extension here! You can also view the source code here on GitHub.
-The rest of this article is a writeup on the extension itself - enjoy!
-Preface Before talking about my addon directly, first I wanted to explain the context behind why it was created in the first place.
-As a privacy enthusiast, I often find myself configuring my browser to match my needs.</description>
+      <description>A 5-star-rated browser extension for Firefox that augments the official multi-account containers addon by adding bulk container interaction and management.</description>
     </item>
     
     <item>
@@ -89,8 +76,7 @@ As a privacy enthusiast, I often find myself configuring my browser to match my 
       <pubDate>Sun, 28 Feb 2021 18:11:22 -0700</pubDate>
       
       <guid>https://charlesmknox.com/about/</guid>
-      <description>About me My name is Charles Knox. I am a professional software developer, and have nearly a decade of industry software development and information technology experience. You can see my professional work history here, at resume.charlesmknox.com.
-Software I write software that I hope people will use. I am always working on solutions that will make your life easier. You can see my portfolio here, as well as my apps here, and my GitHub here.</description>
+      <description>This is the page that describes who I am, what this site is, and any other important information.</description>
     </item>
     
     <item>
@@ -99,9 +85,7 @@ Software I write software that I hope people will use. I am always working on so
       <pubDate>Sun, 28 Feb 2021 18:11:22 -0700</pubDate>
       
       <guid>https://charlesmknox.com/supporters/</guid>
-      <description>If you want to get on this page, visit the About page &amp;ldquo;Ways to support me&amp;rdquo; section!
-Supporters Bob Haines Bob Haines supported my work on the Firefox Containers Helper extension. I am honored and humbled that he took the time to make a contribution and a feature request, and as my first supporter, he will forever have my gratitude. Thank you Bob!
-Bob contributed to my healthy eating and coding habits via Buy me a Coffee: https://www.</description>
+      <description>This is the page that describes all of the people who have publicly supported the work I&amp;#39;m doing.</description>
     </item>
     
     <item>
@@ -110,8 +94,7 @@ Bob contributed to my healthy eating and coding habits via Buy me a Coffee: http
       <pubDate>Sun, 28 Feb 2021 15:15:50 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/blog-site/</guid>
-      <description>Before switching to Hugo, I wrote my own full-stack website, and hosted it on AWS. The site was written in:
- Frontend: Angular 9 Middleware/web server: Go 1.13 Data: Static markdown files  Screenshots Because the website is not statically generated and requires a live API, and I do not want to continue to provide uptime for the API, I&amp;rsquo;ll be providing a few screen captures of the site in action.</description>
+      <description>Portfolio item: My former personal blog, written in Angular, Go, and static markdown files. Screenshots below.</description>
     </item>
     
     <item>
@@ -120,9 +103,7 @@ Bob contributed to my healthy eating and coding habits via Buy me a Coffee: http
       <pubDate>Tue, 16 Feb 2021 13:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/go-1.16-deprecating-ioutil/</guid>
-      <description>Go 1.16 was released - here are the release notes.
-The thing that caught my eye was that io/ioutil has been deprecated - here&amp;rsquo;s what you need to know
- The io/ioutil package has turned out to be a poorly defined and hard to understand collection of things. All functionality provided by the package has been moved to other packages. The io/ioutil package remains and will continue to work as before, but we encourage new code to use the new definitions in the io and os packages.</description>
+      <description>A note about the recent Go 1.16 update: The familiar ioutil library is being marked as deprecated. Here&amp;#39;s what you need to know.</description>
     </item>
     
     <item>
@@ -131,8 +112,7 @@ The thing that caught my eye was that io/ioutil has been deprecated - here&amp;r
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/portfolio/fullstack/light-sites/</guid>
-      <description>Light Sites is a Go-powered, no-JavaScript, template-friendly, lightweight markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration.
-About the project This was written as a coding project. I wanted to create a minimalistic server to parse markdown files and manipulate them according to some essential customizations. It&amp;rsquo;s more of reference code than an actual production-ready solution. For the purposes of a proper website deployment, I recommend Hugo.</description>
+      <description>Portfolio item: Light Sites, a Go-powered, no-JavaScript, template-friendly, lightweight  markdown parser and server. It aims to combine Bootstrap CSS (and other customizable CSS if you choose) with Markdown with minimal configuration. </description>
     </item>
     
     <item>
@@ -141,9 +121,7 @@ About the project This was written as a coding project. I wanted to create a min
       <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
       
       <guid>https://charlesmknox.com/health/general/learning-how-to-learn/</guid>
-      <description>I&amp;rsquo;ve been taking the time regularly in my life to prioritize learning. I&amp;rsquo;ve been on the lookout for new things to learn.
-So, I explored options for online learning. I found Coursera. A few of the top recommended online classes included a particularly interesting class called Learning How to Learn.
-In this class, you really do learn how to properly learn and engage with new and confusing content. Let&amp;rsquo;s take a look at some of the most profound things I learned from the class.</description>
+      <description>A summary of my takeaways on the Coursera class titled, &amp;#39;Learning How to Learn.&amp;#39;</description>
     </item>
     
     <item>
@@ -152,8 +130,7 @@ In this class, you really do learn how to properly learn and engage with new and
       <pubDate>Fri, 25 Sep 2020 18:05:38 +0000</pubDate>
       
       <guid>https://charlesmknox.com/health/general/napping-the-right-way/</guid>
-      <description>Recently I stumbled upon a Reddit post in the ChangeMyView subreddit that suggested that it should be &amp;ldquo;the standard&amp;rdquo; for employers to allow 20-minute naps around noon.
-As someone that values having some downtime around lunch to close my eyes and nap, this topic was worth reviewing in detail. What are the benefits of taking naps? How long should naps actually be? When should they be taken? Can an employer allow an employee to take naps?</description>
+      <description>Are naps important? How can we functionally take a nap if we are supposed to be working all day? This article tackles some of those questions.</description>
     </item>
     
     <item>
@@ -162,10 +139,7 @@ As someone that values having some downtime around lunch to close my eyes and na
       <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</guid>
-      <description>Installing Postman with Canonical&amp;rsquo;s Snap does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
-Installation First, download the latest release:
-wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz Extract the underlying archive to /opt:
-sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the extracted Postman binary to /usr/bin/Postman so that it gets added to your $PATH and you can easily run it by typing the command postman:</description>
+      <description>A guide on how to install Postman on Ubuntu 20.04. May be outdated.</description>
     </item>
     
     <item>
@@ -174,8 +148,7 @@ sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the
       <pubDate>Fri, 24 Apr 2020 15:48:30 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</guid>
-      <description>It&amp;rsquo;s April 24, 2020. Ubuntu 20.04 just came out. Installing Docker via the method I typically use via get.docker.com does not seem to work. Additionally, the Docker website doesn&amp;rsquo;t seem to have install instructions for Ubuntu 20.04 yet. Snap installations are recommended by Canonical, but from past experience with the Docker Snap, I prefer to stick to a native method of installation.
-If you don&amp;rsquo;t have Ubuntu 20.04 yet, it was released on April 23, 2020.</description>
+      <description>A guide on how to install Docker on Ubuntu 20.04. May be outdated.</description>
     </item>
     
     <item>
@@ -184,10 +157,7 @@ If you don&amp;rsquo;t have Ubuntu 20.04 yet, it was released on April 23, 2020.
       <pubDate>Sun, 19 Apr 2020 14:23:32 +0000</pubDate>
       
       <guid>https://charlesmknox.com/health/general/why-sleep-matters-now-more-than-ever/</guid>
-      <description>The following are my notes from the TED Talks Daily podcast, Why sleep matters now more than ever | Matt Walker.
-Matt Walker has an impressive set of credentials related to sleep science. View his website at sleepdiplomat.com.
-Notes on Sleep, the Immune System, and COVID-19 Individuals that reported getting less than 7 hours of sleep reported a 3-fold increase of getting the Rhinovirus.
-The body requires sleep in order to produce a proper immune response to even vaccines.</description>
+      <description>These are my notes on rom the TED Talks Daily podcast, Why sleep matters now more than ever, by Matt Walker.</description>
     </item>
     
     <item>
@@ -196,10 +166,7 @@ The body requires sleep in order to produce a proper immune response to even vac
       <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/regular-expression-for-url-friendly-titles/</guid>
-      <description>The following Go code snippet will convert a string from this:
-Wow! This message&#39;s getting some _good_ publicity! To this:
-wow-this-messages-getting-some-good The function The function itself, and its imports:
-import ( &amp;#34;math&amp;#34; &amp;#34;regexp&amp;#34; &amp;#34;strings&amp;#34; ) // Converts a string to a lowercase, hyphen-separated string of max length 36 func getTitleURLFromString(title string) (output string) { // first, strip out any special characters  re := regexp.MustCompile(`(?m)[^\d^A-Z^a-z^\-^\s]`) substitution := &amp;#34;&amp;#34; output = re.</description>
+      <description>This is a Go code snippet that will convert a string from regular grammatical syntax to a length-limited-url-form.</description>
     </item>
     
     <item>
@@ -208,8 +175,7 @@ import ( &amp;#34;math&amp;#34; &amp;#34;regexp&amp;#34; &amp;#34;strings&amp;#3
       <pubDate>Sat, 18 Apr 2020 19:36:22 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/string-compression/</guid>
-      <description>Here&amp;rsquo;s how to compress and decompress a string in Golang using the gzip library.
-package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;bytes&amp;#34; &amp;#34;io/ioutil&amp;#34; ) // Credit where credit is due! // https://stackoverflow.com/a/19267224 func compressString(str string) (string, error) { var b bytes.Buffer gz := gzip.NewWriter(&amp;amp;b) if _, err := gz.Write([]byte(str)); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } if err := gz.Close(); err != nil { fmt.Println(fmt.Sprintf(&amp;#34;Compress string closure failure %v&amp;#34;, err)) return &amp;#34;&amp;#34;, err } return string(b.</description>
+      <description>This is a Go code snippet that will compress and decompress a string.</description>
     </item>
     
     <item>
@@ -218,9 +184,7 @@ package main import ( &amp;#34;compress/gzip&amp;#34; &amp;#34;fmt&amp;#34; &amp
       <pubDate>Sat, 18 Apr 2020 17:02:25 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/angular/using-angular-and-google-analytics/</guid>
-      <description>By default, Angular does not work very well with Google Analytics. It will only announce a page-view event when refreshing the page. This makes the router in Angular somewhat useless.
-Luckily, there is an npm package called angular-gtag that hooks into the root app component of your Angular project and sends views upon router navigation.
-However, I found that the README had a few implicit steps that I needed to do some searching for.</description>
+      <description>My experience with getting Google Analytics to work with Angular.</description>
     </item>
     
     <item>
@@ -229,9 +193,7 @@ However, I found that the README had a few implicit steps that I needed to do so
       <pubDate>Fri, 17 Apr 2020 23:30:16 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/angular/how-to-fix-angular-not-scrolling-to-top-for-routerlinks/</guid>
-      <description>By default, when using Angular routerLink tags in your HTML, the behavior users will experience when clicking these links is that the browser keeps the current scrollbar positions, before and after clicking.
-There are cases where this is undesirable, such as when using an Angular router to route URLs (such as /home or /articles ) to Angular components.
-To fix this, add in your app-routing.module.ts file the following into the @NgModule imports:</description>
+      <description>A summary on managing the position of your scrollbar in Angular when clicking on links.</description>
     </item>
     
     <item>
@@ -240,9 +202,7 @@ To fix this, add in your app-routing.module.ts file the following into the @NgMo
       <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
-      <description>The title is a bit of an exaggeration, but it&amp;rsquo;s partly true if you don&amp;rsquo;t use the correct properties in your HTML elements.
-In HTML, you should be using rel=&amp;quot;noopener noreferrer&amp;quot; along with target=&amp;quot;_blank&amp;quot; in your &amp;lt;a&amp;gt; tags - if not, you run major security risks. This GitHub Pages site shows you how: https://apal21.github.io/target-blank/
-Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&amp;rsquo;re using a linter when you write your code.</description>
+      <description>Contains security and privacy advice on how to properly use outbound links in your web-facing code.</description>
     </item>
     
     <item>
@@ -251,11 +211,7 @@ Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&am
       <pubDate>Fri, 17 Apr 2020 22:10:20 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/bash/backup-a-folder-in-bash/</guid>
-      <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.
-The following Bash script is a cronjob directory backup script that takes two arguments:
- the folder to backup the output directory  It will also automatically clean up any backups that are more than 3 weeks old.
-See below.
-The backup script #!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; .tar.gz) tgtpath=$(dirname &amp;#34;${2}&amp;#34;) output=&amp;#34;${tgtpath}/${outputtargz}__$(date +%m-%d-%y_%H-%M).</description>
+      <description>This post contains code that will enable you to automatically backup a directory and remove backups older than 3 weeks.</description>
     </item>
     
     <item>
@@ -264,10 +220,7 @@ The backup script #!/bin/bash -e  outputtargz=$(basename &amp;#34;${2}&amp;#34; 
       <pubDate>Fri, 17 Apr 2020 13:35:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/openapi/swagger-and-openapi/</guid>
-      <description>Swagger is a framework to enable arbitrary implementations of the OpenAPI specification.
-Why? In all of the projects I&amp;rsquo;ve worked on (personal and professional), one of the more consistent problems is documentation of API endpoints, as well as agreement upon REST interaction schema between microservices. It wasn&amp;rsquo;t until a few years into my software development career that I became aware of Swagger.
-Swagger lets you:
- auto-generate interactive documentation for your REST API auto-generate a client to consume your defined REST API in many programming languages/frameworks auto-generate a server to host your defined REST API in many programming languages/frameworks  For the bright software developer that wishes to move fast but still produce quality software, Swagger is an optimal choice for delivering results.</description>
+      <description>A tutorial that will guide you through the process of setting up an OpenAPI (aka Swagger) document, as well as exploring the ecosystem.</description>
     </item>
     
     <item>
@@ -276,8 +229,7 @@ Swagger lets you:
       <pubDate>Fri, 17 Apr 2020 13:31:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/email-regexp/</guid>
-      <description>It was a bit annoying, but the regular expression on this site almost worked out of the box. I had to add in a few line breaks:
-package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var emailRegEx = regexp.MustCompile( `^(?:[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+(?:\.[a-z0-9!#$%&amp;amp;&amp;#39;*+/=?^_`+ &amp;#34;`&amp;#34;+ `{|}~-]+)*|&amp;#34;(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*&amp;#34;)@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])`) func verifyEmail(email string) bool { if (emailRegEx.MatchString(email) == true) { return true } return false } func main() { fmt.Println(verifyEmail(&amp;#34;some.user@gmail.com&amp;#34;)) } Go Playground link: https://play.golang.org/p/Gq67bAJeK2r</description>
+      <description>Contains Go code to help you validate an email address string with a regular expression.</description>
     </item>
     
     <item>
@@ -286,19 +238,9 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;regexp&amp;#34; ) var email
       <pubDate>Fri, 17 Apr 2020 13:30:00 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/go/go-mod-init/</guid>
-      <description>Disclaimer: I&amp;rsquo;m using Go version 1.12.7 for this. It may not work for earlier versions of Go.
-If you&amp;rsquo;ve ever tried to get into Go, one of the first things you&amp;rsquo;ve probably struggled with is simply creating a Go module. Go likes to nag you about $GOPATH, and as someone that is not a native Gopher, I don&amp;rsquo;t want to deal with it.
-Ever run into this error when running go mod init?</description>
+      <description>Sometimes, the `go mod init` doesn&amp;#39;t work. This article might help.</description>
     </item>
     
-    <item>
-      <title>Search</title>
-      <link>https://charlesmknox.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlesmknox.com/search/</guid>
-      <description>search</description>
-    </item>
     
   </channel>
 </rss>

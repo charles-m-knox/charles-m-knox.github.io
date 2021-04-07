@@ -13,9 +13,7 @@
       <pubDate>Fri, 17 Apr 2020 22:41:02 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/webdev/every-outbound-link-leaks-privacy/</guid>
-      <description>The title is a bit of an exaggeration, but it&amp;rsquo;s partly true if you don&amp;rsquo;t use the correct properties in your HTML elements.
-In HTML, you should be using rel=&amp;quot;noopener noreferrer&amp;quot; along with target=&amp;quot;_blank&amp;quot; in your &amp;lt;a&amp;gt; tags - if not, you run major security risks. This GitHub Pages site shows you how: https://apal21.github.io/target-blank/
-Many linters will catch this if it&amp;rsquo;s not set, so make sure that you&amp;rsquo;re using a linter when you write your code.</description>
+      <description>Contains security and privacy advice on how to properly use outbound links in your web-facing code.</description>
     </item>
     
   </channel>

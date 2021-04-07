@@ -13,10 +13,7 @@
       <pubDate>Fri, 24 Apr 2020 15:48:51 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/linux/how-to-install-postman-on-ubuntu-20.04/</guid>
-      <description>Installing Postman with Canonical&amp;rsquo;s Snap does not typically work well for me, so I prefer installing it natively. Here are the instructions for doing this on Ubuntu 20.04.
-Installation First, download the latest release:
-wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz Extract the underlying archive to /opt:
-sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the extracted Postman binary to /usr/bin/Postman so that it gets added to your $PATH and you can easily run it by typing the command postman:</description>
+      <description>A guide on how to install Postman on Ubuntu 20.04. May be outdated.</description>
     </item>
     
     <item>
@@ -25,8 +22,7 @@ sudo tar -xzvf postman.tar.gz -C /opt Create a symbolic link (shortcut) from the
       <pubDate>Fri, 24 Apr 2020 15:48:30 +0000</pubDate>
       
       <guid>https://charlesmknox.com/tech/software/linux/how-to-install-docker-on-ubuntu-20.04/</guid>
-      <description>It&amp;rsquo;s April 24, 2020. Ubuntu 20.04 just came out. Installing Docker via the method I typically use via get.docker.com does not seem to work. Additionally, the Docker website doesn&amp;rsquo;t seem to have install instructions for Ubuntu 20.04 yet. Snap installations are recommended by Canonical, but from past experience with the Docker Snap, I prefer to stick to a native method of installation.
-If you don&amp;rsquo;t have Ubuntu 20.04 yet, it was released on April 23, 2020.</description>
+      <description>A guide on how to install Docker on Ubuntu 20.04. May be outdated.</description>
     </item>
     
   </channel>
