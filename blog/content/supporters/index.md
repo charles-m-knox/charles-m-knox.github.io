@@ -53,3 +53,7 @@ I checked with Bob to see if it was OK for me to share his contact information -
 
 * [Bob on LinkedIn](https://www.linkedin.com/in/bobhaines/)
 * [@rjhaines on Twitter](https://twitter.com/rjhaines)
+
+### Marissa
+
+Marissa sent me a [healthy avocado 🥑 through Buy Me a Coffee](https://www.buymeacoffee.com/charles.m.knox). Her support is greatly appreciated - she's an amazing person that supports me any time she can! She mentioned to me that she enjoys the [Septaday iOS app and its lifestyle advice](/apps/septaday/). Thank you SO much, Marissa!
